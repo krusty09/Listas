@@ -7,8 +7,6 @@ http://104.245.96.214:8000/live/alexandra/alexandra1/869.ts
 http://104.245.96.214:8000/live/alexandra/alexandra1/858.ts
 #EXTINF:-1,24/7: Cantinflas
 http://104.245.96.214:8000/live/alexandra/alexandra1/990.ts
-#EXTINF:-1,24/7: Peliculas 2
-http://104.245.96.214:8000/live/alexandra/alexandra1/854.ts
 #EXTINF:-1,24/7: Shin Chan
 http://104.245.96.214:8000/live/alexandra/alexandra1/879.ts
 #EXTINF:-1,24/7: Un hogar casi perfecto - 3X3 (2016)
@@ -33,10 +31,6 @@ http://104.245.96.214:8000/live/alexandra/alexandra1/847.ts
 http://104.245.96.214:8000/live/alexandra/alexandra1/846.ts
 #EXTINF:-1,24/7: Los caballeros del Zodiaco  HD
 http://104.245.96.214:8000/live/alexandra/alexandra1/845.ts
-#EXTINF:-1,24/7: MacGyver SD
-http://104.245.96.214:8000/live/alexandra/alexandra1/834.ts
-#EXTINF:-1,24/7: Malcolm  SD
-http://104.245.96.214:8000/live/alexandra/alexandra1/844.ts
 #EXTINF:-1,24/7: Mr. Bean SD
 http://104.245.96.214:8000/live/alexandra/alexandra1/843.ts
 #EXTINF:-1,24/7: Patoaventuras SD
@@ -89,80 +83,32 @@ http://104.245.96.214:8000/live/alexandra/alexandra1/3082.ts
 http://104.245.96.214:8000/live/alexandra/alexandra1/3081.ts
 #EXTINF:-1,24/7: Tom and Jerry HD
 http://104.245.96.214:8000/live/alexandra/alexandra1/3080.ts
-#EXTINF:-1,FOX HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2179.ts
-#EXTINF:-1,Fox HD 720p
-http://104.245.96.214:8000/live/alexandra/alexandra1/3183.ts
-#EXTINF:-1,SONY HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2181.ts
 #EXTINF:-1,Sony HD 720p
 http://104.245.96.214:8000/live/alexandra/alexandra1/3174.ts
-#EXTINF:-1,WARNER HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2182.ts
 #EXTINF:-1,Warner HD 720p
 http://104.245.96.214:8000/live/alexandra/alexandra1/3168.ts
-#EXTINF:-1,UNIVERSAL HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2183.ts
 #EXTINF:-1,Universal HD 720p
 http://104.245.96.214:8000/live/alexandra/alexandra1/3169.ts
-#EXTINF:-1,FX HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2184.ts
 #EXTINF:-1,FX HD 720p
 http://104.245.96.214:8000/live/alexandra/alexandra1/3180.ts
-#EXTINF:-1,A&E HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2185.ts
 #EXTINF:-1,A&E HD 720p
 http://104.245.96.214:8000/live/alexandra/alexandra1/3198.ts
-#EXTINF:-1,AXN HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2186.ts
-#EXTINF:-1,AXN HD 720p
-http://104.245.96.214:8000/live/alexandra/alexandra1/3196.ts
-#EXTINF:-1,TRUTV HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2187.ts
 #EXTINF:-1,TruTv HD 720p
 http://104.245.96.214:8000/live/alexandra/alexandra1/3170.ts
-#EXTINF:-1,COMEDY CENTRAL HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2188.ts
-#EXTINF:-1,HOLA TV HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2189.ts
-#EXTINF:-1,E! HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2190.ts
-#EXTINF:-1,SYFY HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2191.ts
-#EXTINF:-1,TNT SERIES HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2192.ts
 #EXTINF:-1,TNT Series HD 720p
 http://104.245.96.214:8000/live/alexandra/alexandra1/3171.ts
-#EXTINF:-1,GOURMET HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2193.ts
-#EXTINF:-1,FOX LIFE HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2194.ts
-#EXTINF:-1,NICK HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2195.ts
 #EXTINF:-1,Nickelodeon HD 720p
 http://104.245.96.214:8000/live/alexandra/alexandra1/3175.ts
-#EXTINF:-1,CARTOON NETWORK HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2196.ts
 #EXTINF:-1,Cartoon Network HD 720p
 http://104.245.96.214:8000/live/alexandra/alexandra1/3195.ts
-#EXTINF:-1,DISCOVERY THEATER HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2197.ts
+#EXTINF:-1,Cartoon Network
+http://104.245.96.214:8000/live/alexandra/alexandra1/47.ts
 #EXTINF:-1,Discovery Teather HD 720p
 http://104.245.96.214:8000/live/alexandra/alexandra1/3190.ts
-#EXTINF:-1,HISTORY HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2198.ts
 #EXTINF:-1,History HD 720p
 http://104.245.96.214:8000/live/alexandra/alexandra1/3178.ts
-#EXTINF:-1,NATGEO WILD HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2199.ts
 #EXTINF:-1,NatGeo Wild HD 720p
 http://104.245.96.214:8000/live/alexandra/alexandra1/3176.ts
-#EXTINF:-1,DISCOVERY WORLD HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2200.ts
-#EXTINF:-1,LIFE TIME HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2201.ts
-#EXTINF:-1,FOX ACTION HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2203.ts
 #EXTINF:-1,Fox Action HD 720p
 http://104.245.96.214:8000/live/alexandra/alexandra1/3185.ts
 #EXTINF:-1,Fox Cinema HD 720p
@@ -171,116 +117,44 @@ http://104.245.96.214:8000/live/alexandra/alexandra1/3184.ts
 http://104.245.96.214:8000/live/alexandra/alexandra1/2202.ts
 #EXTINF:-1,Fox Series HD 720p
 http://104.245.96.214:8000/live/alexandra/alexandra1/3181.ts
-#EXTINF:-1,FOX MOVIES HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2204.ts
 #EXTINF:-1,Fox Movies HD 720p
 http://104.245.96.214:8000/live/alexandra/alexandra1/3182.ts
-#EXTINF:-1,CINECANAL HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2205.ts
 #EXTINF:-1,Cinecanal HD 720p
 http://104.245.96.214:8000/live/alexandra/alexandra1/3194.ts
-#EXTINF:-1,TNT HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2206.ts
 #EXTINF:-1,TNT HD 720p
 http://104.245.96.214:8000/live/alexandra/alexandra1/3172.ts
-#EXTINF:-1,GOLDEN HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2207.ts
 #EXTINF:-1,Golden HD 720p
 http://104.245.96.214:8000/live/alexandra/alexandra1/3179.ts
-#EXTINF:-1,FX MOVIES HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2208.ts
-#EXTINF:-1,DEPELICULA HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2209.ts
-#EXTINF:-1,De Pelicula HD 720p
-http://104.245.96.214:8000/live/alexandra/alexandra1/3192.ts
-#EXTINF:-1,AMC HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2210.ts
-#EXTINF:-1,AMC HD 720p
-http://104.245.96.214:8000/live/alexandra/alexandra1/3197.ts
-#EXTINF:-1,SPACE HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2211.ts
 #EXTINF:-1,Space HD 720p
 http://104.245.96.214:8000/live/alexandra/alexandra1/3173.ts
-#EXTINF:-1,CINEMAX HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2212.ts
-#EXTINF:-1,Cinemax HD 720p
-http://104.245.96.214:8000/live/alexandra/alexandra1/3193.ts
-#EXTINF:-1,ESPN 2 HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2216.ts
-#EXTINF:-1,ESPN 3 HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2214.ts
-#EXTINF:-1,ESPN HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2215.ts
-#EXTINF:-1,ESPN PLUS HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2213.ts
-#EXTINF:-1,FOX SPORTS 2 HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2218.ts
-#EXTINF:-1,FOX SPORTS 3 HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2219.ts
-#EXTINF:-1,FOX SPORTS HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2217.ts
-#EXTINF:-1,TVC Deportes HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2180.ts
-#EXTINF:-1,MTV  LIVE HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2221.ts
-#EXTINF:-1,MTV HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2224.ts
 #EXTINF:-1,MTV HD 720p
 http://104.245.96.214:8000/live/alexandra/alexandra1/3177.ts
-#EXTINF:-1,FOOD NETWORK HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2225.ts
-#EXTINF:-1,VH1 HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2223.ts
-#EXTINF:-1,TELEHIT HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2222.ts
-#EXTINF:-1,GOLF CHANNEL HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2220.ts
-#EXTINF:-1,PARAMOUNT CHANNEL HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2226.ts
-#EXTINF:-1,NATGEO KIDS HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2227.ts
-#EXTINF:-1,CANAL FORMULA1 HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2228.ts
-#EXTINF:-1,MN TVC HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2229.ts
-#EXTINF:-1,RT HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2230.ts
-#EXTINF:-1,DISCOVERY KIDS HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2231.ts
+#EXTINF:-1,Cinecanal
+http://104.245.96.214:8000/live/alexandra/alexandra1/77.ts
+#EXTINF:-1,Cinecanal 2
+http://104.245.96.214:8000/live/alexandra/alexandra1/70.ts
+#EXTINF:-1,Cinemax
+http://104.245.96.214:8000/live/alexandra/alexandra1/78.ts
 #EXTINF:-1,Discovery Kids HD 720p
 http://104.245.96.214:8000/live/alexandra/alexandra1/3191.ts
 #EXTINF:-1,Disney Channel HD 720p
 http://104.245.96.214:8000/live/alexandra/alexandra1/3187.ts
 #EXTINF:-1,Disney XD HD 720p
 http://104.245.96.214:8000/live/alexandra/alexandra1/3186.ts
-#EXTINF:-1,DISCOVERY TURBO HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2232.ts
+#EXTINF:-1,Boomerang
+http://104.245.96.214:8000/live/alexandra/alexandra1/49.ts
 #EXTINF:-1,Discovery Turbo HD 720p
 http://104.245.96.214:8000/live/alexandra/alexandra1/3188.ts
-#EXTINF:-1,HBO 2 HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2236.ts
-#EXTINF:-1,HBO FAMILY HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2237.ts
 #EXTINF:-1,HBO HD
 http://104.245.96.214:8000/live/alexandra/alexandra1/2238.ts
-#EXTINF:-1,HBO PLUS HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2239.ts
 #EXTINF:-1,HBO SIGNATURE HD
 http://104.245.96.214:8000/live/alexandra/alexandra1/2240.ts
 #EXTINF:-1,MAX UP HD
 http://104.245.96.214:8000/live/alexandra/alexandra1/2241.ts
 #EXTINF:-1,NICK 2 HD
 http://104.245.96.214:8000/live/alexandra/alexandra1/2242.ts
-#EXTINF:-1,INVESTIGATION DISCOVERY HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2243.ts
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2244.ts
-#EXTINF:-1,TLC DISCOVERY HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2245.ts
 #EXTINF:-1,TLC HD 720p
 http://104.245.96.214:8000/live/alexandra/alexandra1/3189.ts
-#EXTINF:-1,BABY FIRST HD
-http://104.245.96.214:8000/live/alexandra/alexandra1/2246.ts
 #EXTINF:-1,A&E
 http://104.245.96.214:8000/live/alexandra/alexandra1/21.ts
 #EXTINF:-1,AMC
@@ -347,8 +221,6 @@ http://104.245.96.214:8000/live/alexandra/alexandra1/224.ts
 http://104.245.96.214:8000/live/alexandra/alexandra1/225.ts
 #EXTINF:-1,B31N Sp0rts 12
 http://104.245.96.214:8000/live/alexandra/alexandra1/226.ts
-#EXTINF:-1,Boomerang
-http://104.245.96.214:8000/live/alexandra/alexandra1/49.ts
 #EXTINF:-1,BR || A&E
 http://104.245.96.214:8000/live/alexandra/alexandra1/2399.ts
 #EXTINF:-1,BR || Arte
@@ -423,18 +295,6 @@ http://104.245.96.214:8000/live/alexandra/alexandra1/209.ts
 http://104.245.96.214:8000/live/alexandra/alexandra1/33.ts
 #EXTINF:-1,Canal Once
 http://104.245.96.214:8000/live/alexandra/alexandra1/12.ts
-#EXTINF:-1,Cartoon Network
-http://104.245.96.214:8000/live/alexandra/alexandra1/47.ts
-#EXTINF:-1,Baby TV
-http://104.245.96.214:8000/live/alexandra/alexandra1/40.ts
-#EXTINF:-1,Cinecanal
-http://104.245.96.214:8000/live/alexandra/alexandra1/77.ts
-#EXTINF:-1,Cinecanal 2
-http://104.245.96.214:8000/live/alexandra/alexandra1/70.ts
-#EXTINF:-1,Cinemax
-http://104.245.96.214:8000/live/alexandra/alexandra1/78.ts
-#EXTINF:-1,CL: 13 CABLE
-http://104.245.96.214:8000/live/alexandra/alexandra1/107.ts
 #EXTINF:-1,CL: CANAL13
 http://104.245.96.214:8000/live/alexandra/alexandra1/103.ts
 #EXTINF:-1,CL: CANAL13 HD
