@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1,SP: SYFY HD
 http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3473.m3u8
 #EXTINF:-1,SP: TVN Chile HD
@@ -156,7 +155,7 @@ http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1604.m3u8
 http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1605.m3u8
 #EXTINF:-1,SP: Canal+ Series Xtra
 http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1608.m3u8
-#EXTINF:-1,SP: M. Series HD tecnowillblog.wordpress.com
+#EXTINF:-1,SP: M. Series HD 
 http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1609.m3u8
 #EXTINF:-1,SP: Canal+ Liga
 http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1575.m3u8
