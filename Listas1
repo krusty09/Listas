@@ -15,10 +15,6 @@ http://servicioamerica.net:1935/8344/8344/playlist.m3u8
 http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
 #EXTINF:1,TC HD
 http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
-#EXTINF:1,GAMA TV
-http://zial.dyndns.tv:8000/live/kobi/kobi/2352.ts
-#EXTINF:1,MAJESTAD TV
-http://stream-01.dc3.dailymotion.com/32/dm/3/x5cscax/live-0.m3u8
 #EXTINF:1,== Peliculas ==
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1, Broad Movies
@@ -43,8 +39,6 @@ http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 http://stmv2.euroti.com.br:1935/mandruva/mandruva/live.m3u8?wowzasessionid=412620615
 #EXTINF:-1, Ciencia Ficción
 https://hls-ord-3a.vaughnsoft.net/ams/live/live_cienciaficcion/chunklist.m3u8
-#EXTINF:-1,ES:C _Dcine_HD
-http://tv2iptv.com:8000/live/XXXX/XXXXX/3165.ts
 #EXTINF:0,== ENTRETENIMIENTO ==
 #EXTGRP:unsorted
 http://streaming203.radionomy.com:80/City-Dance-Radio
@@ -54,18 +48,12 @@ http://live.tvplayerlatino.com/streaming/src1/fRonE?ZGtkYwVmZQR1ZQH4ZwVm|User-Ag
 http://live.tvplayerlatino.com/streaming/src1/DhZOs?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
 #EXTINF:-1,Comedy Central
 http://live.tvplayerlatino.com/streaming/src1/EKlNT?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1, CINECANAL
-http://23.237.22.161/3/U2FsdGVkX1%2BxQZR%2BKPdlmB%2B0bwIkqB%2B5GOmRS5jKy4cvEpy2lmP9euCwzaBSkRrkXjmF%2BU0g%2B4QjO0jA7EWkuQ%3D%3D/playlist.m3u8
 #EXTINF:-1,FXM
 http://live.tvplayerlatino.com/streaming/src1/8VRfG?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
 #EXTINF:-1,Fox Life
 http://live.tvplayerlatino.com/streaming/src1/7eNpt?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
 #EXTINF:-1,FX
 http://live.tvplayerlatino.com/streaming/src1/PEhC4?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1,Fox Movies HD
-http://200.89.190.162/live/live/FoxMoviesHD/SA_Live/FoxMoviesHD-video=3900000-audio_AACL_eng_144800_51=144800.m3u8
-#EXTINF:-1, FOX PREMIUN
-http://23.237.22.162/3/U2FsdGVkX1%2FTjBUEYsaBIV37jaBZJQz86FlzkOMFcsmLYI5t9zdfj5zTNxO4qLAfgaNSkI%2FdAmUZhs7iCx%2FZ%2Fg%3D%3D/playlist.m3u8
 #EXTINF:-1,Golden Edge 
 http://live.tvplayerlatino.com/streaming/src1/QfuWa?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
 #EXTINF:-1,GOLDEN HD 
@@ -74,14 +62,8 @@ http://live.tvplayerlatino.com/streaming/src1/PLMti?ZGtkYwVmZQR1ZQLlZQVm|User-Ag
 http://live.tvplayerlatino.com/streaming/src1/wMbZG?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
 #EXTINF:-1, SyFy
 http://live.tvplayerlatino.com/streaming/src1/GU0FE?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1, SPACE
-http://200.89.190.162:80/live/live/SpaceHD/SA_Live/SpaceHD.m3u8/playlist.m3u8
 #EXTINF:-1,TBS Very Funny
 http://live.tvplayerlatino.com/streaming/src1/DbqPb?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1, FILM ZONE HD
-http://217.182.132.161:25461/hlsr/GRMOBEANRFwUBlMEVVxQVwBWWQRfVQVSDVENUwBTVVQDBFUHB1RXXwZASkASTUAHVQs%20WF0RCgIBBg0AHxUUEQdDOQxXR1xEBFFeUkMVEBZdCwQTAwMcFUVdURcJFVJQVQJXRx9HAx5CBxQMAFVtBlEQCFJcEQpZQFhZGRFYDz0GVAsEXQFEXBRSRE5DUEESFlxDclZBQFhHVVZcXFlBLANSDwpdBApGUgdGNgRVVwFbCxRfUFBRVFxbW1BAF0xCIX8yRXY1REoUAA8WE1hGBxZcQwgJARIbF1daQF1DExtAC0QgcEdKRFMaEgcPSlsNWkRbE1QARQ8XGBdcQGgTBxFFFABSCAMUFFhEUkMVEA9VHj5SVl1eUlZAXFpdRENYQABESREICQhfFgkQPklbBhZcQwMPAwkPF0k=/123/123/54285/2375f5dddddc546d54785e4a87e04fc9/54285_1369.ts
-#EXTINF:-1, HBO LATINO
-http://200.89.190.162/live/live/HBOHD/SA_Live/HBOHD.m3u8
 #EXTINF:-1, HBO 2 G67
 http://wowza2.mysoltv.com:1992/Latino_HBO_2/tracks-v1a1/index.m3u8
 #EXTINF:-1, Studio Universal
@@ -96,25 +78,12 @@ http://live.tvplayerlatino.com/streaming/src1/7x3AE?ZGtkYwVmZQR1ZQH4ZwVm|User-Ag
 http://live.tvplayerlatino.com/streaming/src1/r7Ohf?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
 #EXTINF:-1,UNIVERSAL CHANNEL
 http://live.tvplayerlatino.com/streaming/src1/nfdUc?ZGtkYwVmZQR1ZQLlZQVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQLlZQVm
-#EXTINF:-1, CINEMAX HD
-http://217.182.132.161:25461/hlsr/GRMOBEANRFwUAQJSBQxWAQEHVQlcAlUDVFdRDAsAWQNTAAJVC11TAARASkASTUAHVQs%20WF0RCgIBBwUNHxUUEQdDOQxXR1xEBFFeUkMVEBZdCwQTAwMcFUVdURcJFVBUVQRESREAHhJTEAgDDWZWB0IPAlQbCV5CWVgZF1xZPgYHXAcLV0dcRAZASkAISkJADkQiXktDX0VUV1xaXRcvAwFYCQtSCUYCU0IyBw1cUQ1ZEw9YWlJTXlpaUEYTGkEhLGVGIGNHSkRUCxIQAE1XQA5EUAAKABIbF1daQF1DExtAC0QgcEdKRFMaEgcPSlsNWkRbE1QARQ8XGBdcQGgTBxFFFABSCAMUFFhEUkMVEA9VHj5SVl1eUlZAXFpdRENYQABESREICQhfFgkQPklbBhZcQwMPAQgAF0k=/123/123/54308/844a92ec54883565dd3f04bf25ee5c02/54308_1555.ts
-#EXTINF:-1, CENTRAL COMEDY
-http://217.182.132.161:25461/hlsr/GRMOBEANRFwUAFFSUltWVwRWUlVbBwcOBARQUAIPUVBQBFcGBlYHUA9ASkASTUAHVQs%20WF0RCgIBBwUDHxUUEQdDOQxXR1xEBFFeUkMVEBZdCwQTAwMcFUVdURcJFVBVVwBVRx9HAx5CBxQMAFVtBlEQCFJcEQpZQFhZGRFYDz0GVAsEXQFEXBRSRE5DUEESFlxDclZBQFhHVVZcXFlBLANSDwpdBApGUgdGNgRVVwFbCxRfUFBRVFxbW1BAF0xCIX8yRXY1REoUAA8WE1hGBxZcQwALBQkVGRZWWkZZFRAbE1xHdiZEShQHHhYEV0ELWwhDCxteA0INFhkXWkQ%20EAdCEhdWBAsDREBcQFEbHkBZBxluWlxeWVBXQVxcWRJAWBNXRx9HCwlYCxINE2ZCC1BEWxMLBQIAABZI/123/123/54306/ee9e49dba4fa40f96d02469d5b6c75ab/54306_374.ts
-http://app.iptvultimate.com/stream/get/102?token=ZGtkYwVmZQR1ZQL0Zj|user-agent=Lavf/57.71.100|token=ZGtkYwVmZQR1ZQL0Zj
 #EXTINF:-1,Warner HD
 http://live.tvplayerlatino.com/streaming/src1/SO0M3?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1,DISCOVERY HOME & HEALTH
-http://www.jomyson.com:8000/live/07AG2/1qopCMfnn3/62.m3u8
-#EXTINF:-1,GARAGE TV
-http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 #EXTINF:1,TELEFE
 https://vivoplay-i.akamaihd.net/hls/live/261555/canal1/master2500k.m3u8
-#EXTINF:-1, TNT HD
-http://kdsajkcasadjsab77676das99saghdshhdds.sitenow.me/live/tnt_cpp7n3e/chunklist.m3u8?st=3JVM-SUgQerNmXVaepMsnA&e=1506128363
 #EXTINF:-1, CARACOL TELEVISION
 https://vivoplay-i.akamaihd.net/hls/live/253482/canal1/master2500k.m3u8
-#EXTINF:-1,RCN
-http://23.237.22.160/3/U2FsdGVkX18IqBM4aW0YK2sJAucIbqyCrrNRIJsD%2BJiKUP6MDPOBQcLcm0mtgLEbIyddbyXWDAkltSGU20n4hg%3D%3D/playlist.m3u8
 #EXTINF:1,RCN 2
 https://vivoplay-i.akamaihd.net/hls/live/255327/canal7/master2500k.m3u8
 #EXTINF:1,RCN NOVELAS
@@ -125,8 +94,6 @@ http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 http://184.173.179.163:1935/8022/8022/chunklist_w715672138.m3u8
 #EXTINF:-1, MEGA CHILE
 http://cl-a3-p-e-hb2.cdn.mdstrm.com/live-stream/53d2c1a32640614e62a0e000/publish/media_1500.m3u8?dnt=true&access_token=false&ref=http://www.mega.cl/senal-en-vivo/&es=cl-a3-p-e-hb2.cdn.mdstrm.com&ote=1503671716540&ot=Ub1_4_jqjMVdU6XmxQqjBA&proto=http
-#EXTINF:-1, LA RED CHILE
-http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/chunklist_b1429163.m3u8
 #EXTINF:1,A+
 http://romeo.exabytetv.info/exabytetv-esgratis/gc/VPZAL-1011001110000010100011000110111-ExabyteTV-holis/2141/visita-exabytetv.m3u8
 #EXTINF:1,ANTENA 3
@@ -135,15 +102,11 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
 #EXTINF:1,LA SEXTA (ESPAñOL)
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:1,SUN CHANNEL
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
 #EXTINF:-1,CB24
 http://ipointcablertmp.tulix.tv/admin24//myStream.sdp/playlist.m3u8
 #EXTINF:0,== INFANTILES ==
 #EXTGRP:unsorted
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1,BOOMMERANG
-http://217.182.132.161:25461/hlsr/GRMOBEANRFwUVFJRVV1XAFVUUgUAAAkFVgMEA1VUVARRCVVXAgFTBAZASkASTUAHVQs%20WF0RCgIBBwQBHxUUEQdDOQxXR1xEBFFeUkMVEBZdCwQTAwMcFUVdURcJFVBRUgdURx9HAx5CBxQMAFVtBlEQCFJcEQpZQFhZGRFYDz0GVAsEXQFEXBRSRE5DUEESFlxDclZBQFhHVVZcXFlBLANSDwpdBApGUgdGNgRVVwFbCxRfUFBRVFxbW1BAF0xCIX8yRXY1REoUAA8WE1hGBxZcQwcICxIbF1daQF1DExtAC0QgcEdKRFMaEgcPSlsNWkRbE1QARQ8XGBdcQGgTBxFFFABSCAMUFFhEUkMVEA9VHj5SVl1eUlZAXFpdRENYQABESREICQhfFgkQPklbBhZcQwAABQYCF0k=/123/123/54314/ae9026581000cf4859d413dd6fed81e5/54314_32.ts
 #EXTINF:-1,|SP| DISNEY XD
 http://live.tvplayerlatino.com/streaming/src1/Ow853?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
 #EXTINF:-1,TVN Kids
@@ -162,30 +125,17 @@ http://live.tvplayerlatino.com/streaming/src1/BOgKm?ZGtkYwVmZQR1ZQH4ZwVm|User-Ag
 http://live.tvplayerlatino.com/streaming/src1/Q7iup?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
 #EXTINF:-1,Nick Jr
 http://live.tvplayerlatino.com/streaming/src1/DFX8y?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1,ES:CLAN__TVE
-http://tv2iptv.com:8000/live/XXXX/XXXXX/3142.ts
-#EXTINF:1,ANIME TV
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 #EXTINF:1,PAKA PAKA (ARGENTINA)
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 #EXTINF:1,LOCOMOTION TV
 http://locomotiontv.com/envivo/loco_app/stream.m3u8
-#EXTINF:-1,Azteca7
-http://ns545828.ip-144-217-181.net:25461/live/Jared/iscar/106.ts
 #EXTINF:-1,Los Simpson 24/7
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="series" tvg-logo="https://k60.kn3.net/8/9/8/3/B/8/DA9.png" group-title="INFANTILES",Tateti
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
-http://ar.watcha.live/ch16/hi.m3u8
-#EXTINF:-1, PakaPaka
-http://ar.watcha.live/ch15/full.m3u8
 #EXTINF:-1,Retro Cartoon
 http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
 #EXTINF:0,== HD ==
 #EXTGRP:unsorted
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1,WWE HD (USA)
-http://iptv.myeasytv.xyz:8000/live/beda/beda/20337.ts
 #EXTINF:-1,Azteca Corazón HD
 http://vivoplay-i.akamaihd.net/hls/live/255340/canal10/master2500k.m3u8
 #EXTINF:-1,Azteca Click HD
@@ -223,10 +173,6 @@ http://vivoplay-i.akamaihd.net/hls/live/253482/canal1/master2500k.m3u8}
 #EXTINF:0,== MÚSICA - MUSIC ==
 #EXTGRP:unsorted
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1, MTV
-http://s2.iptvmanagerpro.com/stream_10_f5e78c79d9927231c21b5578fb76a534_1506451273.m3u8
-#EXTINF:-1, NIUMEDIA (W)
-http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
 #EXTINF:-1,TOP LATINO
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
 #EXTINF:1,TELEMúSICA
@@ -237,8 +183,6 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 #EXTINF:1,CITY RADIO TV
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
-#EXTINF:1,COOL HD
-http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
 #EXTINF:1,HEART TV (UK)
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:1,CANTINAZO
@@ -254,20 +198,12 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
 #EXTINF:-1,MUSIC CHOICE
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1,CLUBBING TV
-http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/clubbingtv-mobile.3gp.m3u8
-#EXTINF:-1,CAROLINA TV
-http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8?nimblesessionid=65667433
 #EXTINF:-1,Heart TV [HD]
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:-1,VH1 Classic
-http://212.34.244.28:7003/play/a00g
 #EXTINF:1,IBIZA DJING
 http://www.djing.com/tv/ibiza.m3u8
 #EXTINF:1,M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-#EXTINF:1,POWER HD (ARG)
-http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 #EXTINF:1,RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:1,VIBEE
@@ -277,16 +213,6 @@ http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 #EXTINF:0,== DEPORTES - SPORTS ==
 #EXTGRP:unsorted
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:1,CNT SPORT
-http://live.abcast.net:8081/edge/ver4736194d32ab91063941a71dba11e5ed/chunks.m3u8?nimblesessionid=744952&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDE3IDExOjM3OjI4IFBNJmhhc2hfdmFsdWU9UE81RHJWejI1aFhWTjVTeW9vdzdnZz09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:1,DIRECTV SPORTS 2
-https://live73.vkuserlive.com/639904/live/BL38NYhDfJSL94EB/playlist.m3u8
-#EXTINF:1,SPN
-http://23.237.22.158/3/U2FsdGVkX19DHqQdAz8DDb8YsQ17lM65BUyCAFbMp%2BHZl%2FyachVGRcTYb8MvqZMPH2v68Jb%2B4bjOouoRkw4sZA%3D%3D/playlist.m3u8
-#EXTINF:1,PSN
-http://tier2.musicalliance.us/swf/248.m3u8?sf=NTcwZDJkM2NiZjMyMA==&token=oFPNDaK6rAFowNPrUa347g
-#EXTINF:1,FOX SPORT
-https://live67.vkuserlive.com/637608/live/B7v6Nm5DfHKoIuQH/B7v6Nm5DfHKoIuQH-769541130.ts
 #EXTINF:1,ESPN 2 (ARGENTINA)
 http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/VPZAL-1011001110000010100011000110111-ExabyteTV-holis/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9lc3BuLTItZW4tdml2by5odG1s/visita-exabytetv.m3u8
 #EXTINF:1,ESPN 3 (ARGENTINA)
@@ -301,23 +227,15 @@ http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/VPZAL-10110011100000101
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:1,UFC NETWORK
 http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/VPZAL-1011001110000010100011000110111-ExabyteTV-holis/aHR0cDovL3d3dy5taXBzcGxheWVyLmNvbS9UdVRWU2t5MDE=/visita-exabytetv.m3u8
-#EXTINF:1,VERSUS CHANNEL (USA)
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:1,WWE NETWORK
 http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/VPZAL-1011001110000010100011000110111-ExabyteTV-holis/wwetv/visita-exabytetv.m3u8
 #EXTINF:0,== MUNDO Y CULTURA ==
 #EXTGRP:unsorted
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:1,ADN 40
-http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
-#EXTINF:1,CANAL ONCE
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 #EXTINF:1,DW LATINOAMéRICA
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF:1,EARTH TV
 http://cdn.liveonearth.com/cdnedge/smil:TWL.smil/playlist.m3u8
-#EXTINF:1,MIAMI TV
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:0,== NOTICIAS - NEWS ==
 #EXTGRP:unsorted
 http://streaming203.radionomy.com:80/City-Dance-Radio
@@ -331,29 +249,13 @@ http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:1,UNO TV MEXICO
 http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8
-#EXTINF:-1,CNN Chile
-http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8?CeceGeek.m3u8
 #EXTINF:0,== ARGENTINA ==
 #EXTGRP:unsorted
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:1,CANAL 4 JUJUY
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
-#EXTINF:1,DEPORTV (DXTV)
-http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
-#EXTINF:1,MUSICTOP
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:1,ONE TV
 http://server5.stweb.tv/radioone/live/playlist.m3u8
-#EXTINF:1,QM NOTICIAS
-http://qmnoticiashls-lh.akamaihd.net/i/qmnoticiasTEST_hls@324831/master.m3u8
-#EXTINF:1,TEC TV
-http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
-#EXTINF:1,TELEMAX ARG
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:1,TELESUR (ARG)
 http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
-#EXTINF:1,TELPIN HD
-http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 #EXTINF:0,== COLOMBIA ==
 #EXTGRP:unsorted
 http://streaming203.radionomy.com:80/City-Dance-Radio
@@ -386,8 +288,6 @@ http://romeo.exabytetv.info/exabytetv-esgratis/lives/VPZAL-101100111000001010001
 http://mek2.mekstream.com:1935/noticias16/live2/playlist.m3u8
 #EXTINF:1,SUPER CANAL 33 RD
 http://newyorkstream.ddns.net:1935/supercanalcaribe/supercanalcaribe/playlist.m3u8?wowzasessionid=1572023888
-#EXTINF:1,TELERADIO AMéRICA
-http://qs1.distream.net:2116/t45_str/canal45/playlist.m3u8
 #EXTINF:1,TELEUNIVERSO
 http://ss9.domint.net:1942/tu_str/universo/chunklist_w501782081.m3u8
 #EXTINF:0,== PERÚ ==
@@ -395,13 +295,9 @@ http://ss9.domint.net:1942/tu_str/universo/chunklist_w501782081.m3u8
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:1,MONTERRICO TV
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-#EXTINF:1,TV LA LUZ
-http://stream.iglesiaytecnologia.com:2077/live/tvlaluz/playlist.m3u8
 #EXTINF:0,== VENEZUELA ==
 #EXTGRP:unsorted
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:1,CANAL I
-http://edge.wms28.lorini.net/canal-i/canal-i/playlist.m3u8
 #EXTINF:1,PROMAR
 http://vpn58.hdtv.lorini.net/promar/promar/playlist.m3u8
 #EXTINF:1,TELESUR 31
@@ -411,16 +307,9 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 #EXTINF:0,== Variado ==
 #EXTGRP:unsorted
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1,Radio la Mega Colombia
-https://livestream-f.akamaihd.net/i/13907141_4117932_lsioowsilxtl8s5orpz_1@447252/index_2128_av-b.m3u8?sd=10&dw=14400&rebase=on&hdntl=exp=1505941150~acl=%2fi%2f13907141_4117932_lsioowsilxtl8s5orpz_1%40447252%2f*~data=hdntl~hmac=a3c58b51989034e3857941f6b7e26e902c685ba999fa2373e8958e730fdb4273
 #EXTINF:0,== RELIGIÓN ==
 #EXTGRP:unsorted
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:0,3ABN KIDZ
-#EXTGRP:unsorted
-http://moiptvus-lh.akamaihd.net/i/kidslive_1@328343/master.m3u8
-#EXTINF:1,CBN ESPAñOL
-http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 #EXTINF:1,CIELO TV
 http://wan-lbf.net:1935/cielotv/myStream.sdp/playlist.m3u8
 #EXTINF:0,ENLACE
@@ -471,12 +360,6 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/gd03.stream/playlist.m3u8
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs01.stream/playlist.m3u8
 #EXTINF:-1,NHK BS PREMIUM
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs14.stream/playlist.m3u8
-#EXTINF:-1,NHK EDUCATIONAL TV
-http://cdn-usa1-streaming.ani-box.com:1935/live/gd02.stream/playlist.m3u8
-#EXTINF:-1,NHK WORLD HD
-http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
-#EXTINF:-1,NTV NEWS 24
-http://www.news24.jp/livestream/index.m3u8
 #EXTINF:-1,SAMURAI FIGHTING TV
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
 #EXTINF:-1,STAR CHANNEL 1
