@@ -42,7 +42,33 @@ https://hls-ord-3a.vaughnsoft.net/ams/live/live_cienciaficcion/chunklist.m3u8
 #EXTINF:0,== ENTRETENIMIENTO ==
 #EXTGRP:unsorted
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1, AMC
+#EXTINF:-1,CLASSICS
+http://freeiptv.geantsat.com:58888/live/free-geantsat.2017/09g10fgf2017fgvQQQ/92.m3u8
+#EXTINF:-1,AZTECA CINEMA
+http://freeiptv.geantsat.com:58888/live/free-geantsat.2017/09g10fgf2017fgvQQQ/91.m3u8
+#EXTINF:-1,AZTECA MUNDO
+http://freeiptv.geantsat.com:58888/live/free-geantsat.2017/09g10fgf2017fgvQQQ/90.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://freeiptv.geantsat.com:58888/live/free-geantsat.2017/09g10fgf2017fgvQQQ/86.m3u8
+#EXTINF:-1,ESPN
+http://freeiptv.geantsat.com:58888/live/free-geantsat.2017/09g10fgf2017fgvQQQ/85.m3u8
+#EXTINF:-1,ESPN 2
+http://freeiptv.geantsat.com:58888/live/free-geantsat.2017/09g10fgf2017fgvQQQ/84.m3u8
+#EXTINF:-1,ESPN 3
+http://freeiptv.geantsat.com:58888/live/free-geantsat.2017/09g10fgf2017fgvQQQ/83.m3u8
+#EXTINF:-1,FOX ACTION
+http://freeiptv.geantsat.com:58888/live/free-geantsat.2017/09g10fgf2017fgvQQQ/82.m3u8
+#EXTINF:-1,LATINO*:FOX CLASSIC
+http://freeiptv.geantsat.com:58888/live/free-geantsat.2017/09g10fgf2017fgvQQQ/80.m3u8
+#EXTINF:-1,LATINO*:FOX LIFE
+http://freeiptv.geantsat.com:58888/live/free-geantsat.2017/09g10fgf2017fgvQQQ/79.m3u8
+#EXTINF:-1,LATINO*:FOX MOVIES
+http://freeiptv.geantsat.com:58888/live/free-geantsat.2017/09g10fgf2017fgvQQQ/78.m3u8
+#EXTINF:-1,LATINO*:FOX SPORT 1
+http://freeiptv.geantsat.com:58888/live/free-geantsat.2017/09g10fgf2017fgvQQQ/77.m3u8
+#EXTINF:-1,LATINO*:FOX SPORT 2
+http://freeiptv.geantsat.com:58888/live/free-geantsat.2017/09g10fgf2017fgvQQQ/76.m3u8
+#EXTINF:-1,AMC
 http://live.tvplayerlatino.com/streaming/src1/fRonE?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
 #EXTINF:-1,E! Entertainment
 http://live.tvplayerlatino.com/streaming/src1/DhZOs?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
