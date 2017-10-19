@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:1,== ECUADOR ==
 http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:1,ECUADOR TV
+http://api.new.livestream.com/accounts/21848311/events/6465523/live.m3u8
 #EXTINF:1,RTS
 http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/playlist.m3u8
 #EXTINF:1,Teleamazonas
@@ -27,18 +29,6 @@ https://hls-ord-3a.vaughnsoft.net/nyc/live/live_variedtv/chunklist.m3u8
 https://hls-ord-3a.vaughnsoft.net/ams/live/live_cine_star/chunklist.m3u8
 #EXTINF:-1,VITATO TV
 https://hls-ord-3a.vaughnsoft.net/ams/live/live_vitatotv/chunklist.m3u8
-#EXTINF:-1, CANAL DE ESTRENOS PLUS HD
-https://vaughnlive.tv/lcremeplushd.M3U
-#EXTINF:-1, CANAL DE COMEDIA
-https://vaughnlive.tv/lcrememax.m3u
-#EXTINF:-1, CANAL DE ACCION
-https://vaughnlive.tv/lcreme_staff.m3u
-#EXTINF:-1, CANAL DE HORROR
-https://vaughnlive.tv/lcreme_horror.m3u
-#EXTINF:-1, CANAL DE FAMILIA
-https://vaughnlive.tv/lcreme_dreams.m3u
-#EXTINF:-1, CANAL INFANTIL
-https://vaughnlive.tv/lcremecartoon.m3u
 #EXTINF:-1,CINE:CINE +
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1,CINE:Cine AR
