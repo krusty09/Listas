@@ -34,7 +34,7 @@ https://hls-ord-3a.vaughnsoft.net/ams/live/live_vitatotv/chunklist.m3u8
 #EXTINF:-1,CINE:CINE +
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1,LCREMEMAX
-rtmp://198.255.0.10/live?Fg3kMjNysohUfkVyCXSblPfEsqnQeW2B/live_lcreme_staff
+http://198.255.0.10/live/playlist.m3u8?bZJHnmKId59uUfWZMLpgZWWbXnydY41v/live_lcreme_staff
 #EXTINF:-1,CINE:Cine AR
 http://ar.watcha.live/ch17/hi.m3u8
 #EXTINF:1 tvg-logo="https://yt3.ggpht.com/-RigzES2ZCHs/AAAAAAAAAAI/AAAAAAAAAAA/7Sj9DbFYW3U/s176-c-k-no-mo-rj-c0xffffff/photo.jpg" , A3Series
