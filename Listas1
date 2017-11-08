@@ -86,44 +86,34 @@ http://us-b1-p-e-hu2.cdn.mdstrm.com/live-stream/58dc3d471cbe05ff3c8e463e/publish
 https://cialivesec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
 #EXTINF:-1,TV PERÚ HD
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1,AMC
-http://live.tvplayerlatino.com/streaming/src1/fRonE?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1,E! Entertainment
-http://live.tvplayerlatino.com/streaming/src1/DhZOs?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1,Comedy Central
-http://live.tvplayerlatino.com/streaming/src1/EKlNT?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1,FXM
-http://live.tvplayerlatino.com/streaming/src1/8VRfG?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1,Fox Life
-http://live.tvplayerlatino.com/streaming/src1/7eNpt?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1,FX
-http://live.tvplayerlatino.com/streaming/src1/PEhC4?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1,Golden Edge 
-http://live.tvplayerlatino.com/streaming/src1/QfuWa?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1,GOLDEN HD 
-http://live.tvplayerlatino.com/streaming/src1/PLMti?ZGtkYwVmZQR1ZQLlZQVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQLlZQVm
-#EXTINF:-1, Sony
-http://live.tvplayerlatino.com/streaming/src1/wMbZG?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1, SyFy
-http://live.tvplayerlatino.com/streaming/src1/GU0FE?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1,TBS Very Funny
-http://live.tvplayerlatino.com/streaming/src1/DbqPb?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1, HBO 2 G67
-http://wowza2.mysoltv.com:1992/Latino_HBO_2/tracks-v1a1/index.m3u8
-#EXTINF:-1, Studio Universal
-http://live.tvplayerlatino.com/streaming/src1/CZ6O4?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1, TNT SERIES
-http://live.tvplayerlatino.com/streaming/src1/9HmKY?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1, TNT
-http://live.tvplayerlatino.com/streaming/src1/uny6i?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1, TCM
-http://live.tvplayerlatino.com/streaming/src1/7x3AE?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1, ISAT
-http://live.tvplayerlatino.com/streaming/src1/r7Ohf?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1,UNIVERSAL CHANNEL
-http://live.tvplayerlatino.com/streaming/src1/nfdUc?ZGtkYwVmZQR1ZQLlZQVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQLlZQVm
-#EXTINF:-1,Warner HD
-http://live.tvplayerlatino.com/streaming/src1/SO0M3?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/FX.png" group-title="CINE Y SERIES",FX
+https://live.tutvplay.com/CH/VFBQY1NwQVlHOGlOeTlIRzNpaURCZz09/FX.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/FOX.png" group-title="CINE Y SERIES",FOX
+https://live.tutvplay.com/CH/Z0JkM2tUSmxyMDBiY2lrNHVKQmVZQT09/FOX.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/FOX-Action.png" group-title="CINE Y SERIES",FOX Action
+https://live.tutvplay.com/CH/R0w1S3N1bzdKcFF0cWNIZWZJS2VPQT09/FOX-Action.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/FOX-Movies.png" group-title="CINE Y SERIES",FOX Movies
+https://live.tutvplay.com/CH/NnRDUk9hUHp3ZU53VFovbzEwdlA5QT09/FOX-Movies.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/CineCanal.png" group-title="CINE Y SERIES",CineCanal
+https://live.tutvplay.com/CH/akpGdHY3MDdwZDg4MENaWlZHbE03UT09/CineCanal.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/TNT.png" group-title="CINE Y SERIES",TNT
+https://live.tutvplay.com/CH/VENCQk1LVDVrQXZtNEYrak1nSTBHZz09/TNT.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/AMC.png" group-title="CINE Y SERIES",AMC
+https://live.tutvplay.com/CH/eUtPRFFPM1lzVUNzL1NlNjlGNmtGQT09/AMC.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Space.png" group-title="CINE Y SERIES",Space
+https://live.tutvplay.com/CH/V3VkV3FhSEpTblcvMnhUR1JaNmtydz09/Space.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Sony.png" group-title="CINE Y SERIES",Sony
+https://live.tutvplay.com/CH/SzZsT0RYU1J0ZlY3RENUeitKRlhrdz09/Sony.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Warner-Ch.png" group-title="CINE Y SERIES",Warner Ch
+https://live.tutvplay.com/CH/SDBPVnprTUFNYTZTQ0NRSTdUbUNObUNEWURzckRoRlBHaDYxSkpsS2d2cz0=/Warner-Ch.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/AXN.png" group-title="CINE Y SERIES",AXN
+https://live.tutvplay.com/CH/S3Azd1hXUWdNZmZYanFoRU5OSzJhUT09/AXN.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Distrito-Comedia.png" group-title="CINE Y SERIES",Distrito Comedia
+https://live.tutvplay.com/CH/dTdTTnphU043NHJ5Mkl4NVMxTjF2VjZFM3RCK3AyakNLaFIxcyt6cGdiTT0=/Distrito-Comedia.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/HBO.png" group-title="CINE Y SERIES",HBO
+https://live.tutvplay.com/CH/LzVFY3c2UWZVRkZFZHhjNDE2Y1E3UT09/HBO.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/HBO-2.png" group-title="CINE Y SERIES",HBO 2
+https://live.tutvplay.com/CH/U1NEMEMwc0dad0FCckc0ZTRZaEhiUT09/HBO-2.m3u8
 #EXTINF:1,TELEFE
 https://vivoplay-i.akamaihd.net/hls/live/261555/canal1/master2500k.m3u8
 #EXTINF:-1, CARACOL TELEVISION
@@ -151,24 +141,18 @@ http://ipointcablertmp.tulix.tv/admin24//myStream.sdp/playlist.m3u8
 #EXTINF:0,== INFANTILES ==
 #EXTGRP:unsorted
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1,|SP| DISNEY XD
-http://live.tvplayerlatino.com/streaming/src1/Ow853?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1,TVN Kids
-http://cl-a3-p-e-oi1.cdn.mdstrm.com/live-stream/591f607e06b52d200a6066ea/playout/master.m3u8?es=cl-a3-p-e-oi1.cdn.mdstrm.com&ote=1504726523211&ot=3K9hbeMjQIQ3aUB2PDAtqA&proto=http
-#EXTINF:-1,Tooncast
-http://live.tvplayerlatino.com/streaming/src1/BNgf7?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1,Discovery Kids
-http://live.tvplayerlatino.com/streaming/src1/Q99yx?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:1,CARTON NETWORK
-http://live.tvplayerlatino.com/streaming/src1/owHw3?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1,Disney Channel
-http://live.tvplayerlatino.com/streaming/src1/yr1Y7?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1,Disney Junior
-http://live.tvplayerlatino.com/streaming/src1/BOgKm?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1,Nick
-http://live.tvplayerlatino.com/streaming/src1/Q7iup?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1,Nick Jr
-http://live.tvplayerlatino.com/streaming/src1/DFX8y?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Boomerang.png" group-title="INFANTILES",Boomerang
+https://live.tutvplay.com/CH/RXJyYmVKR3EwZFpIYmFRQmFUdi84UT09/Boomerang.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Cartoon-Network.png" group-title="INFANTILES",Cartoon Network
+https://live.tutvplay.com/CH/aXM4N2trTjBZL2xOYmlBNk1OelczUT09/Cartoon-Network.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Disney-Channel.png" group-title="INFANTILES",Disney Channel
+https://live.tutvplay.com/CH/cFRkU0hOTFFBSDE2NVhsUnprRGRsSjVPYU9pbHFtU1RNS0RRSU5VdjBOMD0=/Disney-Channel.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Disney-XD.png" group-title="INFANTILES",Disney XD
+https://live.tutvplay.com/CH/dXpFUHFsS0luWTZiaHd4L0JYUjBidz09/Disney-XD.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/NickHD.png" group-title="INFANTILES",NickHD
+https://live.tutvplay.com/CH/NXBCcCtHTUF1UTA1WDNNVHhHK3U4UT09/NickHD.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Tooncast.png" group-title="INFANTILES",Tooncast
+https://live.tutvplay.com/CH/TVJqK3YzSXVKOHl4NHBCbjE3MGJuZz09/Tooncast.m3u8
 #EXTINF:1,PAKA PAKA (ARGENTINA)
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 #EXTINF:1,LOCOMOTION TV
@@ -276,6 +260,18 @@ http://46.101.21.42:8081/live/live2/playlist.m3u8
 http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 #EXTINF:1 type="favorites" channelId="-1" tvg-logo="IMAGEN", POWER HD G67
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:-1,-- DOCUMENTALES --
+http://www.tutvplay.com/
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/National-Geographic.png" group-title="DOCUMENTALES",National Geographic
+https://live.tutvplay.com/CH/eklFYXIwOUFaOXk3eThnV3graVROUT09/National-Geographic.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Discovery-Channel-HD.png" group-title="DOCUMENTALES",Discovery Channel HD
+https://live.tutvplay.com/CH/cFRkU0hOTFFBSDE2NVhsUnprRGRsSjVPYU9pbHFtU1RNS0RRSU5VdjBOMD0=/Discovery-Channel-HD.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Investigation-Discovery.png" group-title="DOCUMENTALES",Investigation Discovery
+https://live.tutvplay.com/CH/N2MrL3hzL091am1oL241QTJha3Mzb1J4UkQ5Kyt3bEY5YkY4UmFJUmNjOD0=/Investigation-Discovery.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Animal-Planet.png" group-title="DOCUMENTALES",Animal Planet
+https://live.tutvplay.com/CH/R2gxa0J1bGo0NjVDOU1wT3NwUXRiZz09/Animal-Planet.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/History.png" group-title="DOCUMENTALES",History
+https://live.tutvplay.com/CH/RTJNdU9lZlNYbEttNzNCTmh0bm1tZz09/History.m3u8
 #EXTINF:0,== DEPORTES - SPORTS ==
 #EXTGRP:unsorted
 http://streaming203.radionomy.com:80/City-Dance-Radio}
