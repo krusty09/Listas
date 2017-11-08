@@ -3,24 +3,44 @@
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:1,Televicentro
 http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b1265536.m3u8
+#EXTINF:1,TVC
+http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8
+#EXTINF:1,UCSG
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
 #EXTINF:1,ECUADOR TV
 http://api.new.livestream.com/accounts/21848311/events/6465523/live.m3u8
 #EXTINF:1,RTS
 http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/playlist.m3u8
-#EXTINF:1,Teleamazonas
-https://livestream-f.akamaihd.net/i/1359588_4428723_lsi0w156brux8j7unmz_1@82692/index_446_av-p.m3u8?sd=10&dw=14400&rebase=on&hdntl=exp=1505929435~acl=%2fi%2f1359588_4428723_lsi0w156brux8j7unmz_1%4082692%2f*~data=hdntl~hmac=b59a1e0205bac5f9badcf2b1f6168e9332ddc87c0cb2ba2d52f4300fbc0840e0
+#EXTINF:1,RTS
+http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/playlist.m3u8
+#EXTINF:1,teleamazonas
+http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 #EXTINF:1,ECUAVISA NACIONAL
 http://elcanaldelfutbol.com/static/wowza/test/hls/20001/360p/playlist.m3u8?360
+#EXTINF:1,TVN
+http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:1,TVS Ecuador
 http://181.198.10.23:1935/live2/smil:teradek.smil/playlist.m3u8
+#EXTINF:1,ecuador tv nacional
+http://api.new.livestream.com/accounts/21848311/events/6465523/live.m3u8
 #EXTINF:1,CANELA TV
 http://servicioamerica.net:1935/8344/8344/playlist.m3u8
+#EXTINF:1,Oromartv 23
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIEC0013&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESECUADO.png
 #EXTINF:1,OROMAR TV
 http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
 #EXTINF:1,TC HD
 http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+#EXTINF:1,LATINO NCTV RANCHERA
+http://ss8.domint.net:2106/nct_str/latinos/playlist.m3u8
+#EXTINF:1 tvg-logo="",MEXICANA
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
 #EXTINF:1,== Peliculas ==
 http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:1,Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:1,Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 #EXTINF:-1, Broad Movies
 https://hls-ord-3a.vaughnsoft.net/ord/live/live_broadmovieshd/chunklist.m3u8  
 #EXTINF:-1, Morena Channel
@@ -46,6 +66,20 @@ https://hls-ord-3a.vaughnsoft.net/ams/live/live_cienciaficcion/chunklist.m3u8
 #EXTINF:0,== ENTRETENIMIENTO ==
 #EXTGRP:unsorted
 http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:1,ATV
+http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b981072.m3u8
+#EXTINF:1,NEX TV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:1,La Red
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
+#EXTINF:1,Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:1,TELEMUNDO
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:1,H2
+http://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/chunklist_b1056768.m3u8
+#EXTINF:1,Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
 #EXTINF:-1,CARACOL 
 http://us-b1-p-e-hu2.cdn.mdstrm.com/live-stream/58dc3d471cbe05ff3c8e463e/publish/media_800.m3u8?es=us-b1-p-e-hu2.cdn.mdstrm.com&ote=1507779383293&ot=CsHN9vqlpAHpKbQyWL2Bxg&proto=http&pz=us 
 #EXTINF:-1,LATINA TV
@@ -209,8 +243,16 @@ http://vivoplay-i.akamaihd.net/hls/live/253482/canal1/master2500k.m3u8}
 #EXTINF:0,== MÚSICA - MUSIC ==
 #EXTGRP:unsorted
 http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:1,SON POPULAR
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
+#EXTINF:1 type="favorites" channelId="-1", MUSICTOP
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:-1,TOP LATINO
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+#EXTINF:1,TOP LATINO TV
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+#EXTINF:1,VOX TV olds Cool MUSICAL
+https://stream.smcdn.pl/vox-t/vox_360p/chunklist_w1129473971_tkd293emF0b2tlbmVuZHRpbWU9MTQ5NTg4MzcwMCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9V1NDc3g4M3VhRlN2Q2hnazZKcVlTb1UzcmFjcVZFeXlLTmZCSXpYcVNLaz0=.m3u8
 #EXTINF:1,TELEMúSICA
 http://186.155.200.118:1935/live/telemusica/playlist.m3u8
 #EXTINF:1,CAPITAL TV (UK)
@@ -230,6 +272,14 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
 #EXTINF:1,TRENDY MUSICA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:1 type="favorites" channelId="-1", MALETADVJ
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:1 type="favorites" channelId="-1" tvg-logo="https://d85wutc1n854v.cloudfront.net/live/products/600x375/WB0PGGM81.png", Cool HD
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+#EXTINF:1 type="favorites" channelId="-1" tvg-logo="http://www.roomy-tv.com/images/3831.png", Otto Fm Tv
+http://live.youiptv.ch:1935/8FM/8FM/playlist.m3u8
+#EXTINF:1 type="favorites" channelId="-1" tvg-logo="http://cmc-tv.com/images/camuslogo.gif", California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:1,UNE TV MANIZALES
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
 #EXTINF:-1,MUSIC CHOICE
@@ -240,15 +290,23 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 http://www.djing.com/tv/ibiza.m3u8
 #EXTINF:1,M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:1 type="favorites" channelId="2285" tvg-logo="http://sicilia.onderadio.net/Loghi/Radio/M2O2.jpg", M2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:1 type="favorites" channelId="-1" tvg-logo="http://mywebtv.info/img/tvicons/560870.png", Atomic
+http://5.154.185.153/hls/live.m3u8
 #EXTINF:1,RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:1,VIBEE
 http://46.101.21.42:8081/live/live2/playlist.m3u8
 #EXTINF:1,VIRGIN TV
 http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:1 type="favorites" channelId="-1" tvg-logo="IMAGEN", POWER HD G67
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 #EXTINF:0,== DEPORTES - SPORTS ==
 #EXTGRP:unsorted
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming203.radionomy.com:80/City-Dance-Radio}
+#EXTINF:1,Todo Deportes
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 #EXTINF:1,ESPN 2 (ARGENTINA)
 http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/VPZAL-1011001110000010100011000110111-ExabyteTV-holis/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9lc3BuLTItZW4tdml2by5odG1s/visita-exabytetv.m3u8
 #EXTINF:1,ESPN 3 (ARGENTINA)
@@ -333,6 +391,8 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
 #EXTINF:0,TV AGRO
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+#EXTINF:1 type="favorites" channelId="-1" tvg-group="LATINOS" tvg-logo="https://yt3.ggpht.com/-k5QO6YHdanw/AAAAAAAAAAI/AAAAAAAAAAA/UTcqO9gj0z0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", Ticavision
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:0,== REPÚBLICA DOMINICANA ==
 #EXTGRP:unsorted
 http://streaming203.radionomy.com:80/City-Dance-Radio
@@ -347,6 +407,8 @@ http://ss9.domint.net:1942/tu_str/universo/chunklist_w501782081.m3u8
 #EXTINF:0,== PERÚ ==
 #EXTGRP:unsorted
 http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:1,TV PERÚ
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:1,MONTERRICO TV
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:0,== VENEZUELA ==
