@@ -3,6 +3,16 @@
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1DgSezF.png" group-title="LABEL",* Fluxus Lust
 http://184.173.142.117:21728/stream
 
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/\TvPlay.png" group-title="INFO",-- ADULTOS(+18) --
+http://www.tutvplay.com/
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Playboy.png" group-title="ADULTOS(+18)",Playboy
+https://live.tutvplay.com/CH/WmErdXUvelEvbytmWFlaK2cwVkNzUT09/Playboy.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Venus.png" group-title="ADULTOS(+18)",Venus
+https://live.tutvplay.com/CH/Vlh0T3JOUWljRzdlL0oyL0ZCTW41dz09/Venus.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Babestation.png" group-title="ADULTOS(+18)",Babestation
+https://live.tutvplay.com/CH/QkltRUxoSlVBSzVjZWlFZ0ozUHhMZz09/Babestation.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="LABEL",+ Free Adult VOD
 http://184.173.142.117:21728/stream
 
