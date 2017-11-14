@@ -137,18 +137,30 @@ http://ipointcablertmp.tulix.tv/admin24//myStream.sdp/playlist.m3u8
 #EXTINF:0,== INFANTILES ==
 #EXTGRP:unsorted
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Boomerang.png" group-title="INFANTILES",Boomerang
-https://live.tutvplay.com/CH/RXJyYmVKR3EwZFpIYmFRQmFUdi84UT09/Boomerang.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Cartoon-Network.png" group-title="INFANTILES",Cartoon Network
-https://live.tutvplay.com/CH/aXM4N2trTjBZL2xOYmlBNk1OelczUT09/Cartoon-Network.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Disney-Channel.png" group-title="INFANTILES",Disney Channel
-https://live.tutvplay.com/CH/cFRkU0hOTFFBSDE2NVhsUnprRGRsSjVPYU9pbHFtU1RNS0RRSU5VdjBOMD0=/Disney-Channel.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Disney-XD.png" group-title="INFANTILES",Disney XD
-https://live.tutvplay.com/CH/dXpFUHFsS0luWTZiaHd4L0JYUjBidz09/Disney-XD.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/NickHD.png" group-title="INFANTILES",NickHD
-https://live.tutvplay.com/CH/NXBCcCtHTUF1UTA1WDNNVHhHK3U4UT09/NickHD.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Tooncast.png" group-title="INFANTILES",Tooncast
-https://live.tutvplay.com/CH/TVJqK3YzSXVKOHl4NHBCbjE3MGJuZz09/Tooncast.m3u8
+#EXTINF:-1 tvg-logo="", Disney Jr
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Infantil", NatGeo Kids
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_KIDS_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.turner.com/s3fs-public/location_brand_logo/TurnerLogos_LATAM_TOONCAST-01.png" group-title="Infantil", Tooncast
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://tbsila.cdn.turner.com/toonla/images/cnemea/site/static-3.1.88/img/cnlogo_social.png" group-title="Infantil", Cartoon Network
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw5bY/e2bab1e46e.png" group-title="Infantil", Tiin
+http://189.216.247.113/Content/HLS/Live/Channel(TIIN)/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw51W/3b10c832dd.png" group-title="Infantil", Nick 
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw57k/d21813a8f6.png" group-title="Infantil", Nick JR
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Infantil", Paka Paka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Infantil", TA-TE-TI
+http://ar.watcha.live/ch16/hi.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-iwUTtOMzaiE/U08TQLhmUEI/AAAAAAAAGno/uaCpUitGnG4/s1600/NatsuHen-Locomotion+logo.gif" group-title="Infantil", Locomotion
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Infantil",  Disney Jr.
+http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Infantil", Animax
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 #EXTINF:1,PAKA PAKA (ARGENTINA)
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 #EXTINF:1,LOCOMOTION TV
