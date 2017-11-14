@@ -35,6 +35,8 @@ http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
 http://ss8.domint.net:2106/nct_str/latinos/playlist.m3u8
 #EXTINF:1 tvg-logo="",MEXICANA
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
+#EXTINF:1 tvg-name="GAMA TV" tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/gamatv3.png",GAMA TV
+http://iptvparaguay.com:8000/live/CRISTIANBENITEZ/ofJhu0eLI3/169.ts
 #EXTINF:1,== Peliculas ==
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:1,Neox
