@@ -68,6 +68,17 @@ https://hls-ord-3a.vaughnsoft.net/ams/live/live_cienciaficcion/chunklist.m3u8
 #EXTINF:0,== ENTRETENIMIENTO ==
 #EXTGRP:unsorted
 http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-k5QO6YHdanw/AAAAAAAAAAI/AAAAAAAAAAA/UTcqO9gj0z0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CentroAmerica", TICAVISION 
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.funparol.com/wp-content/gallery/convenios/unsion.jpg" group-title="CentroAmerica", Unsion Tv
+http://api.new.livestream.com/accounts/8374118/events/2980131/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.tencanal10.tv/wp-content/uploads/2017/08/ThumbnailTEN1.jpg" group-title="CentroAmerica", TEN Honduras
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+#EXTINF:-1 tvg-logo="http://imgur.com/LL6WRhZ.png" group-title="CentroAmerica", TV Uno
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/-0vj3JwCG7gY/UY0f-xlZxeI/AAAAAAAACK4/2e7V7B3y_bU/s400/logo%2520de%2520vmastv.png" group-title="CentroAmerica", Vmas TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
+
 #EXTINF:1 tvg-logo="" group-title="Entretenimiento", A&E
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AE)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cine", FOX LIFE
@@ -738,3 +749,157 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/gd01.stream/playlist.m3u8
 #EXTINF:0,== Entretenimiento II ==
 #EXTGRP:unsorted
 http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903676455917314048/tnnv-PSZ_400x400.jpg", PELICULAS - CINE - SERIES
+
+group,PELÍCULAS-CINE-SERIES
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reIHx/6250def099.png" group-title="CINE", A&E 
+http://189.216.247.113/Content/HLS/Live/Channel(AE)/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reIHx/6250def099.png" group-title="CINE", A&E 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AE)/Stream(01)/index.m3u8
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-RigzES2ZCHs/AAAAAAAAAAI/AAAAAAAAAAA/7Sj9DbFYW3U/s176-c-k-no-mo-rj-c0xffffff/photo.jpg" , Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/32.png" group-title="CINE", Comedy Central
+http://189.216.247.113/Content/HLS/Live/Channel(COMEDY_CENTRAL)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/32.png" group-title="CINE", Comedy Central
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(COMEDY_CENTRAL_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/5.png" group-title="CINE", Distrito Comedia
+http://189.216.247.113/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/dhe_new_logo-big.jpg" group-title="CINE", DHE
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DHE_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/17.png" group-title="CINE", TBS
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TBS)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/17.png" group-title="CINE", TBS
+http://189.216.247.113/Content/HLS/Live/Channel(TBS)/index.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/the-film-zone-e.gif" group-title="CINE", Film Zone
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(THE_FILM_ZONE_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CINE/11.png" group-title="CINE", Isat
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ISAT)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CINE/11.png" group-title="CINE", Isat
+http://189.216.247.113/Content/HLS/Live/Channel(ISAT)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CINE/tcm.png" group-title="CINE", TCM
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TCM)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CINE/tcm.png" group-title="CINE", TCM
+http://189.216.247.113/Content/HLS/Live/Channel(TCM)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CINE/13.png" group-title="CINE", Studio Universal
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(STUDIO_UNIVERSAL)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/amc.png" group-title="CINE", AMC
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AMC_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/amc.png" group-title="CINE", AMC
+http://189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/20.png" group-title="CINE", Sony
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SONY_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/20.png" group-title="CINE", Sony
+http://189.216.247.113/Content/HLS/Live/Channel(SONY)/index.m3u8
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/33.png" group-title="Cine", Space
+http://yosololoveoendragonsfeell.applive.online/live/verspace1b545865e21b870c9b07c6/index.m3u8
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/33.png" group-title="Cine", Space
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/33.png" group-title="Cine", Space
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/22.png" group-title="CINE", SyFy
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SYFY)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/1_abba071f13.jpg?ssl=1&w=450" group-title="CINE", AXN
+http://yosololoveoendragonsfeell.applive.online/live/veraxnlatbdc8f93d0e0293ce59869/index.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/1_abba071f13.jpg?ssl=1&w=450" group-title="CINE", AXN
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AXN_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/1_abba071f13.jpg?ssl=1&w=450" group-title="CINE", AXN
+http://189.216.247.113/Content/HLS/Live/Channel(AXN)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tntla.com/billboard/images/logo_tnt_grey.png" group-title="Cine", TNT
+http://yosololoveoendragonsfeell.applive.online/live/tntlatino/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tntla.com/billboard/images/logo_tnt_grey.png" group-title="Cine", TNT
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tntla.com/billboard/images/logo_tnt_grey.png" group-title="Cine", TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/tnt-series.png" group-title="CINE", TNT Series
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_SERIES_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/tnt-series.png" group-title="CINE", TNT Series
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_SERIES)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/15.png" group-title="CINE", Universal Channel
+http://yosololoveoendragonsfeell.applive.online/live/universal/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/15.png" group-title="CINE", Universal Channel
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/3.png" group-title="CINE", Warner Channel
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WARNER_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/3.png" group-title="CINE", Warner Channel
+http://189.216.247.113/Content/HLS/Live/Channel(WARNER)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CINE/CINE-canal.png" group-title="CINE", CINEcanal
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINECANAL_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CINE/16.png" group-title="CINE", CINEmax
+http://189.216.247.113/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CINE/16.png" group-title="CINE", CINEmax
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINEMAX)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/fx.png" group-title="CINE", FX
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FX_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/fx.png" group-title="CINE", FX
+http://189.216.247.113/Content/HLS/Live/Channel(FX_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://tmsimg.video.cdn.charter.com/h3/NowShowing/14988/s14988_h3_aa.png" group-title="CINE", FXM 
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777hahajahsuwqqal0pqquwyey8248972938174092138huah/34.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/2.png" group-title="CINE", Fox
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/16.png" group-title="CINE", FOX Life
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.jazarah.net/directory/wp-content/logos/Media/foxseries.jpg" group-title="CINE", Fox Premium Series
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-action.png" group-title="CINE", Fox Action
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_ACTION)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-action.png" group-title="CINE", Fox Action
+http://yosololoveoendragonsfeell.applive.online/live/foxaccion/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="CINE", Fox Cinema
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777hahajahsuwqqal0pqquwyey8248972938174092138huah/40.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-classics.png" group-title="CINE", Fox Classics
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CLASSICS_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-movies-hd.png" group-title="CINE", Fox Movies
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777hahajahsuwqqal0pqquwyey8248972938174092138huah/41.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zmTGzafOIe8/Vfz6Yzk1MQI/AAAAAAAAAX0/bomr2zyOrdw/s400/logo%2BFOX%2BFAMILY.png" group-title="CINE", Fox Family
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_FAMILY)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-Comedy-Logo-01.png" group-title="CINE", Fox Comedy
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_COMEDY_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/hbomax/1.png" group-title="CINE", HBO
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hbo2b.png" group-title="Cine", HBO 2
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_2_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Cine", HBO Family
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_FAMILY_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-plus-w.gif" group-title="CINE", HBO Plus
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/hbo-signature.gif" group-title="CINE", HBO Signature
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_SIGNATURE_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png" group-title="CINE", Max 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-Atdq5-hrhmg/TvtVTY_6bRI/AAAAAAAAAxM/0NEOw_seIho/s1600/maxprime.jpg" group-title="CINE", Max Prime
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_PRIME)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbM9Q/075938049b.png" group-title="CINE", Max Up
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_UP_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.CINEytele.com/wp-content/uploads/2016/06/paramount-channel.png" group-title="España", Paramount Channel
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777hahajahsuwqqal0pqquwyey8248972938174092138huah/690.m3u8
+#EXTINF:-1 tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png" group-title="CINE", SUNDANCE Channel
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777hahajahsuwqqal0pqquwyey8248972938174092138huah/693.m3u8
+#EXTINF:-1 tvg-logo="http://diesl.com/wp-content/uploads/2013/04/eurochannel3.jpg" group-title="CINE", Eurochannel
+http://144.217.79.223:8000/live/vidal/vidal/2337.m3u8
+#EXTINF:-1 tvg-logo="http://airecable.com/wp-content/uploads/2013/09/EUROPA-EUROPA.png" group-title="CINE", Europa Europa
+http://144.217.79.223:8000/live/vidal/vidal/2337.m3u8
+#EXTINF:-1 tvg-logo="http://agendatv.com.mx/wp-content/uploads/stories/2010/Mayo/logo-filmsarts.jpg" group-title="CINE", Film & Arts Latinoamerica
+http://iptv61w.com:25461/live/juan123/juan123/3777.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CINE/6.png" group-title="CINE", Golden Edge
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777hahajahsuwqqal0pqquwyey8248972938174092138huah/28.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/30.png" group-title="CINE", Golden HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/2016/03/CINElatinologo_616-150x120.png" group-title="CINE", CINE Latino
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINELATINO)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11737_7_225568.png" group-title="CINE", CINEma Dinamita
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINEMA_DINAMITA)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://14575-presscdn-0-73.pagely.netdna-cdn.com/wp-content/uploads/2014/05/depelicula_gallery.jpg" group-title="CINE", DE PELICULA
+http://189.216.247.113/Content/HLS/Live/Channel(DE_PELICULA_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://14575-presscdn-0-73.pagely.netdna-cdn.com/wp-content/uploads/2014/05/depelicula_gallery.jpg" group-title="CINE", DE PELICULA
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DEPELICULA)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://masaryk.tv/wp-content/uploads/2015/05/az-cinema-cartel.jpg" group-title="CINE", AZTECA CINEMA
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AZ_CINEMA)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/2929.gif" group-title="CINE", CLASSIQUE TV
+http://45.43.208.2:1935/classique/classique/live.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XPEodnr.png" group-title="CINE", Telecine Action
+http://BelcoCanaisHdPremium@stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg" group-title="CINE", CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/1605.png" group-title="CINE", Cine AR
+http://ar.watcha.live/ch17/hi.m3u8
