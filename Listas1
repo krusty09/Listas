@@ -86,34 +86,6 @@ http://us-b1-p-e-hu2.cdn.mdstrm.com/live-stream/58dc3d471cbe05ff3c8e463e/publish
 https://cialivesec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
 #EXTINF:-1,TV PERÚ HD
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/FX.png" group-title="CINE Y SERIES",FX
-https://live.tutvplay.com/CH/VFBQY1NwQVlHOGlOeTlIRzNpaURCZz09/FX.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/FOX.png" group-title="CINE Y SERIES",FOX
-https://live.tutvplay.com/CH/Z0JkM2tUSmxyMDBiY2lrNHVKQmVZQT09/FOX.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/FOX-Action.png" group-title="CINE Y SERIES",FOX Action
-https://live.tutvplay.com/CH/R0w1S3N1bzdKcFF0cWNIZWZJS2VPQT09/FOX-Action.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/FOX-Movies.png" group-title="CINE Y SERIES",FOX Movies
-https://live.tutvplay.com/CH/NnRDUk9hUHp3ZU53VFovbzEwdlA5QT09/FOX-Movies.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/CineCanal.png" group-title="CINE Y SERIES",CineCanal
-https://live.tutvplay.com/CH/akpGdHY3MDdwZDg4MENaWlZHbE03UT09/CineCanal.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/TNT.png" group-title="CINE Y SERIES",TNT
-https://live.tutvplay.com/CH/VENCQk1LVDVrQXZtNEYrak1nSTBHZz09/TNT.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/AMC.png" group-title="CINE Y SERIES",AMC
-https://live.tutvplay.com/CH/eUtPRFFPM1lzVUNzL1NlNjlGNmtGQT09/AMC.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Space.png" group-title="CINE Y SERIES",Space
-https://live.tutvplay.com/CH/V3VkV3FhSEpTblcvMnhUR1JaNmtydz09/Space.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Sony.png" group-title="CINE Y SERIES",Sony
-https://live.tutvplay.com/CH/SzZsT0RYU1J0ZlY3RENUeitKRlhrdz09/Sony.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Warner-Ch.png" group-title="CINE Y SERIES",Warner Ch
-https://live.tutvplay.com/CH/SDBPVnprTUFNYTZTQ0NRSTdUbUNObUNEWURzckRoRlBHaDYxSkpsS2d2cz0=/Warner-Ch.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/AXN.png" group-title="CINE Y SERIES",AXN
-https://live.tutvplay.com/CH/S3Azd1hXUWdNZmZYanFoRU5OSzJhUT09/AXN.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Distrito-Comedia.png" group-title="CINE Y SERIES",Distrito Comedia
-https://live.tutvplay.com/CH/dTdTTnphU043NHJ5Mkl4NVMxTjF2VjZFM3RCK3AyakNLaFIxcyt6cGdiTT0=/Distrito-Comedia.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/HBO.png" group-title="CINE Y SERIES",HBO
-https://live.tutvplay.com/CH/LzVFY3c2UWZVRkZFZHhjNDE2Y1E3UT09/HBO.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/HBO-2.png" group-title="CINE Y SERIES",HBO 2
-https://live.tutvplay.com/CH/U1NEMEMwc0dad0FCckc0ZTRZaEhiUT09/HBO-2.m3u8
 #EXTINF:1,TELEFE
 https://vivoplay-i.akamaihd.net/hls/live/261555/canal1/master2500k.m3u8
 #EXTINF:-1, CARACOL TELEVISION
