@@ -37,6 +37,18 @@ http://ss8.domint.net:2106/nct_str/latinos/playlist.m3u8
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
 #EXTINF:1 tvg-name="GAMA TV" tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/gamatv3.png",GAMA TV
 http://iptvparaguay.com:8000/live/CRISTIANBENITEZ/ofJhu0eLI3/169.ts
+#EXTINF:1,RCN NOVELAS
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?exabytetv.info?.m3u
+#EXTINF:1,CARACOL TV
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:1,UNIVISION TV
+http://iptv61w.com:25461/live/juan123/juan123/5767.m3u8
+#EXTINF:1,TELEMUNDO
+http://yosololoveoendragonsfeell.applive.online/live/vertelemundoesb4047ed6f94/index.m3u8
+#EXTINF:1,CALI TV
+http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:1,CANAL 14
+http://181.143.238.252/live/livestream/index.m3u8
 #EXTINF:1,== Peliculas ==
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:1,Neox
