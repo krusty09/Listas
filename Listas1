@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:1,== ECUADOR ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:1,Televicentro
+#EXTINF:-1, tvg-name="Televicentro" group-title="Ecuador Latino" ,Televicentro
 http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b1265536.m3u8
-#EXTINF:1,TVC
+#EXTINF:-1, tvg-name="TVC" group-title="Ecuador Latino" ,TVC
 http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8
 #EXTINF:1,UCSG
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
