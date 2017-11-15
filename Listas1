@@ -48,9 +48,9 @@ http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:1,CANAL 14
 http://181.143.238.252/live/livestream/index.m3u8
 
-#EXTINF:-1, tvg-name="NeoX" group-title="Cable TV" ,NeoX
+#EXTINF:-1, tvg-name="NEOX" group-title="CINE" ,NEOX
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:1,Nova
+#EXTINF:-1, tvg-name="NOVA" group-title="CINE" ,NOVA
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/reIHx/6250def099.png" group-title="CINE", A&E 
 http://189.216.247.113/Content/HLS/Live/Channel(AE)/index.m3u8
