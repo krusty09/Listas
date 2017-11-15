@@ -324,6 +324,8 @@ http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
 #EXTINF:-1 tvg-name="SON POPULAR" group-title="MUSIC", SON POPULAR
 #EXTINF:1,SON POPULAR
 http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
+#EXTINF:-1 tvg-name="MUSIC CHOICE" group-title="MUSIC", MUSIC CHOICE
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:1 type="favorites" channelId="-1", MUSICTOP
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:-1,TOP LATINO
@@ -360,8 +362,6 @@ http://live.youiptv.ch:1935/8FM/8FM/playlist.m3u8
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:1,UNE TV MANIZALES
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
-#EXTINF:-1,MUSIC CHOICE
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1,Heart TV [HD]
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:1,IBIZA DJING
@@ -418,7 +418,6 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN3)/index.m3u8
 http://live.izzitv.mx/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/nB5fs/d0fbb8562f.png" group-title="Deportes", Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-
 
 
 *** Musica *** 
