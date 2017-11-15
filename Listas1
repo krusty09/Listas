@@ -48,9 +48,7 @@ http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:1,CANAL 14
 http://181.143.238.252/live/livestream/index.m3u8
 
-#EXTINF:1,== Peliculas ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:1,Neox
+#EXTINF:-1, tvg-name="NeoX" group-title="Cable TV" ,NeoX
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:1,Nova
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
