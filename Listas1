@@ -209,9 +209,6 @@ http://stmv2.euroti.com.br:1935/mandruva/mandruva/live.m3u8?wowzasessionid=41262
 #EXTINF:-1, Ciencia Ficción
 https://hls-ord-3a.vaughnsoft.net/ams/live/live_cienciaficcion/chunklist.m3u8
 
-#EXTINF:0,== ENTRETENIMIENTO ==
-#EXTGRP:unsorted
-http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-k5QO6YHdanw/AAAAAAAAAAI/AAAAAAAAAAA/UTcqO9gj0z0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CentroAmerica", TICAVISION 
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.funparol.com/wp-content/gallery/convenios/unsion.jpg" group-title="CentroAmerica", Unsion Tv
@@ -290,9 +287,8 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:-1,CB24
 http://ipointcablertmp.tulix.tv/admin24//myStream.sdp/playlist.m3u8
 #EXTINF:0,== INFANTILES ==
-#EXTGRP:unsorted
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-logo="", Disney Jr
+
+#EXTINF:-1, tvg-name="Disney Jr" group-title="Infantil" ,Disney Jr
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infantil", NatGeo Kids
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_KIDS_HD)/Stream(01)/index.m3u8
@@ -324,9 +320,8 @@ http://locomotiontv.com/envivo/loco_app/stream.m3u8
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,Retro Cartoon
 http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
-#EXTINF:0,== MÚSICA - MUSIC ==
-#EXTGRP:unsorted
-http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:-1 tvg-name="SON POPULAR" group-title="MUSIC", SON POPULAR
 #EXTINF:1,SON POPULAR
 http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
 #EXTINF:1 type="favorites" channelId="-1", MUSICTOP
