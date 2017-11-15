@@ -686,10 +686,8 @@ https://live.tutvplay.com/CH/N2MrL3hzL091am1oL241QTJha3Mzb1J4UkQ5Kyt3bEY5YkY4UmF
 https://live.tutvplay.com/CH/R2gxa0J1bGo0NjVDOU1wT3NwUXRiZz09/Animal-Planet.m3u8
 #EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/History.png" group-title="DOCUMENTALES",History
 https://live.tutvplay.com/CH/RTJNdU9lZlNYbEttNzNCTmh0bm1tZz09/History.m3u8
-#EXTINF:0,== DEPORTES - SPORTS ==
-#EXTGRP:unsorted
-http://streaming203.radionomy.com:80/City-Dance-Radio}
-#EXTINF:1,Todo Deportes
+
+#EXTINF:-1 tvg-name="Todo Deportes" group-title="DEPORTES",Todo Deportes
 http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 #EXTINF:1,ESPN 2 (ARGENTINA)
 http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/VPZAL-1011001110000010100011000110111-ExabyteTV-holis/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9lc3BuLTItZW4tdml2by5odG1s/visita-exabytetv.m3u8
@@ -707,16 +705,14 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/VPZAL-1011001110000010100011000110111-ExabyteTV-holis/aHR0cDovL3d3dy5taXBzcGxheWVyLmNvbS9UdVRWU2t5MDE=/visita-exabytetv.m3u8
 #EXTINF:1,WWE NETWORK
 http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/VPZAL-1011001110000010100011000110111-ExabyteTV-holis/wwetv/visita-exabytetv.m3u8
-#EXTINF:0,== MUNDO Y CULTURA ==
-#EXTGRP:unsorted
-http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:-1 tvg-name="DW LATINOAMéRICA" group-title="MUNDO Y CULTURA",DW LATINOAMéRICA
 #EXTINF:1,DW LATINOAMéRICA
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF:1,EARTH TV
 http://cdn.liveonearth.com/cdnedge/smil:TWL.smil/playlist.m3u8
-#EXTINF:0,== NOTICIAS - NEWS ==
-#EXTGRP:unsorted
-http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:-1 tvg-name="EFEKTOTV" group-title="NOTICIAS Y NEWS",EFEKTOTV
 #EXTINF:1,EFEKTOTV
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
 #EXTINF:1,FORO TV (OP2)
@@ -727,14 +723,13 @@ http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:1,UNO TV MEXICO
 http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8
-#EXTINF:0,== ARGENTINA ==
-#EXTGRP:unsorted
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:1,ONE TV
+
+#EXTINF:-1 tvg-name="ONE TV" group-title="ENTRETENIMIENTO",ONE TV
 http://server5.stweb.tv/radioone/live/playlist.m3u8
-#EXTINF:1,TELESUR (ARG)
+#EXTINF:-1 tvg-name="TELESUR (ARG)" group-title="ENTRETENIMIENTO",TELESUR (ARG)
 http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
-#EXTINF:-1,##########   Japan   ##########
+
+#EXTINF:-1 tvg-name="Japan" group-title="Japan",Japan
 http://portal.geniptv.com:8080/live/deric/deric/2533.ts
 #EXTINF:-1,JAY Sports 1 JP
 http://portal.geniptv.com:8080/live/deric/deric/1146.ts
@@ -742,84 +737,6 @@ http://portal.geniptv.com:8080/live/deric/deric/1146.ts
 http://portal.geniptv.com:8080/live/deric/deric/1145.ts
 #EXTINF:-1,JAY Sports 3 JP
 http://portal.geniptv.com:8080/live/deric/deric/1144.ts
-#EXTINF:-1,##########   Korea   ##########
-http://portal.geniptv.com:8080/live/deric/deric/2534.ts
-#EXTINF:-1,KBS Sports KR
-http://portal.geniptv.com:8080/live/deric/deric/1143.ts
-#EXTINF:-1,MBC Sports KR
-http://portal.geniptv.com:8080/live/deric/deric/1142.ts
-#EXTINF:-1,SBS Golf KR
-http://portal.geniptv.com:8080/live/deric/deric/1141.ts
-#EXTINF:-1,SBS Sports KR
-http://portal.geniptv.com:8080/live/deric/deric/1140.ts
-#EXTINF:0,== COLOMBIA ==
-#EXTGRP:unsorted
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:1,CABLE NOTICIAS
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
-#EXTINF:1,CANAL ANTIESTRES
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
-#EXTINF:1,CANAL U
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
-#EXTINF:1,COSMOVISION
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:1,EL TIEMPO
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
-#EXTINF:1,LIFEDESIGN
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
-#EXTINF:1,TELEANTIOQUIA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-#EXTINF:1,TELEMEDELLIN
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
-#EXTINF:1,TELE VIDA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
-#EXTINF:0,TV AGRO
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
-#EXTINF:1 type="favorites" channelId="-1" tvg-group="LATINOS" tvg-logo="https://yt3.ggpht.com/-k5QO6YHdanw/AAAAAAAAAAI/AAAAAAAAAAA/UTcqO9gj0z0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", Ticavision
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:0,== REPÚBLICA DOMINICANA ==
-#EXTGRP:unsorted
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:1,DIGITAL 15
-http://romeo.exabytetv.info/exabytetv-esgratis/lives/VPZAL-1011001110000010100011000110111-ExabyteTV-holis/736348/5551042/visita-exabytetv.m3u8
-#EXTINF:1,NOTICIAS 16
-http://mek2.mekstream.com:1935/noticias16/live2/playlist.m3u8
-#EXTINF:1,SUPER CANAL 33 RD
-http://newyorkstream.ddns.net:1935/supercanalcaribe/supercanalcaribe/playlist.m3u8?wowzasessionid=1572023888
-#EXTINF:1,TELEUNIVERSO
-http://ss9.domint.net:1942/tu_str/universo/chunklist_w501782081.m3u8
-#EXTINF:0,== PERÚ ==
-#EXTGRP:unsorted
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:1,TV PERÚ
-http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:1,MONTERRICO TV
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-#EXTINF:0,== VENEZUELA ==
-#EXTGRP:unsorted
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:1,PROMAR
-http://vpn58.hdtv.lorini.net/promar/promar/playlist.m3u8
-#EXTINF:1,TELESUR 31
-http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
-#EXTINF:1,VMAS TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-#EXTINF:0,== Variado ==
-#EXTGRP:unsorted
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:0,== RELIGIÓN ==
-#EXTGRP:unsorted
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:1,CIELO TV
-http://wan-lbf.net:1935/cielotv/myStream.sdp/playlist.m3u8
-#EXTINF:0,ENLACE
-http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8
-#EXTINF:1,ENLACE JUVENIL
-http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
-#EXTINF:1,ESPERANZA TV
-http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
-EXTINF:-1,~ JAPAN TV ~
-http://www.lengua.com/anthems/Japan.mp3
 #EXTINF:-1,BS 12
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs13.stream/playlist.m3u8
 #EXTINF:-1,BS ASAHI
@@ -884,9 +801,72 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/bs08.stream/playlist.m3u8
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs07.stream/playlist.m3u8
 #EXTINF:-1,NHK GENERAL TV
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd01.stream/playlist.m3u8
-#EXTINF:0,== Entretenimiento II ==
-#EXTGRP:unsorted
-http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:-1 tvg-name="Korea" group-title="Korea",Korea
+http://portal.geniptv.com:8080/live/deric/deric/2534.ts
+#EXTINF:-1,KBS Sports KR
+http://portal.geniptv.com:8080/live/deric/deric/1143.ts
+#EXTINF:-1,MBC Sports KR
+http://portal.geniptv.com:8080/live/deric/deric/1142.ts
+#EXTINF:-1,SBS Golf KR
+http://portal.geniptv.com:8080/live/deric/deric/1141.ts
+#EXTINF:-1,SBS Sports KR
+http://portal.geniptv.com:8080/live/deric/deric/1140.ts
+
+#EXTINF:-1 tvg-name="CABLE NOTICIAS" group-title="COLOMBIA",CABLE NOTICIAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:1,CANAL ANTIESTRES
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:1,CANAL U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:1,COSMOVISION
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+#EXTINF:1,EL TIEMPO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:1,LIFEDESIGN
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+#EXTINF:1,TELEANTIOQUIA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+#EXTINF:1,TELEMEDELLIN
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+#EXTINF:1,TELE VIDA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+#EXTINF:0,TV AGRO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+#EXTINF:1 type="favorites" channelId="-1" tvg-group="LATINOS" tvg-logo="https://yt3.ggpht.com/-k5QO6YHdanw/AAAAAAAAAAI/AAAAAAAAAAA/UTcqO9gj0z0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", Ticavision
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="DIGITAL 15" group-title="REPÚBLICA DOMINICANA",DIGITAL 15
+http://romeo.exabytetv.info/exabytetv-esgratis/lives/VPZAL-1011001110000010100011000110111-ExabyteTV-holis/736348/5551042/visita-exabytetv.m3u8
+#EXTINF:1,NOTICIAS 16
+http://mek2.mekstream.com:1935/noticias16/live2/playlist.m3u8
+#EXTINF:1,SUPER CANAL 33 RD
+http://newyorkstream.ddns.net:1935/supercanalcaribe/supercanalcaribe/playlist.m3u8?wowzasessionid=1572023888
+#EXTINF:1,TELEUNIVERSO
+http://ss9.domint.net:1942/tu_str/universo/chunklist_w501782081.m3u8
+
+#EXTINF:-1 tvg-name="TV PERÚ" group-title="PERÚ",TV PERÚ
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:1,MONTERRICO TV
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PROMAR" group-title="VENEZUELA",PROMAR
+http://vpn58.hdtv.lorini.net/promar/promar/playlist.m3u8
+#EXTINF:1,TELESUR 31
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
+#EXTINF:1,VMAS TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+
+#EXTINF:-1 tvg-name="CIELO TV" group-title="RELIGION",CIELO TV
+http://wan-lbf.net:1935/cielotv/myStream.sdp/playlist.m3u8
+#EXTINF:0,ENLACE
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8
+#EXTINF:1,ENLACE JUVENIL
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
+#EXTINF:1,ESPERANZA TV
+http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
+
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903676455917314048/tnnv-PSZ_400x400.jpg", PELICULAS - CINE - SERIES
 
 group,PELÍCULAS-CINE-SERIES
