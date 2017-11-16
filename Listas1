@@ -479,6 +479,10 @@ http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklis
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
 
 
+** CULTURA ***
+#EXTINF:-1 tvg-logo="https://ferminmusic.com/wp-content/uploads/2017/04/cultura-copia.jpg", =CULTURA=
+http://srregio.com/
+
 #EXTINF:-1 tvg-logo="" group-title="CULTURA", DISCOVERY CHANNEL
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CULTURA", DISCOVERY H&H
