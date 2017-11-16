@@ -479,11 +479,6 @@ http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklis
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
 
 
-
-*** Cultura ***
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", =CULTURA=
-http://srregio.com/
-
 #EXTINF:-1 tvg-logo="" group-title="CULTURA", DISCOVERY CHANNEL
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CULTURA", DISCOVERY H&H
