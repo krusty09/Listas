@@ -27,6 +27,8 @@ http://servicioamerica.net:1935/8344/8344/playlist.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIEC0013&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESECUADO.png
 #EXTINF:1,OROMAR TV
 http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 group-title="Ecuador Latino",ORO VISION
+http://37.187.108.127:554/ecuadortv01/tv/playlist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:1,TC HD
 http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
 #EXTINF:1,LATINO NCTV RANCHERA
@@ -35,6 +37,8 @@ http://ss8.domint.net:2106/nct_str/latinos/playlist.m3u8
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
 #EXTINF:1 tvg-name="GAMA TV" tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/gamatv3.png",GAMA TV
 http://iptvparaguay.com:8000/live/CRISTIANBENITEZ/ofJhu0eLI3/169.ts
+#EXTINF:-1 group-title="Ecuador Latino",TV UNO
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:1,RCN NOVELAS
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?exabytetv.info?.m3u
 #EXTINF:1,CARACOL TV
@@ -223,7 +227,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
 #EXTINF:1 tvg-logo="" group-title="Cine", A&E
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AE)/Stream(01)/index.m3u8
 #EXTINF:1 tvg-logo="" group-title="Cine", TruTV
-http://tecnotv.xyz/tvmex/trutv
+http://live.izzitv.mx/Content/HLS/Live/Channel(TRUTV)/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cine", FOX LIFE
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cine", FOX SERIES
@@ -292,6 +296,10 @@ http://ipointcablertmp.tulix.tv/admin24//myStream.sdp/playlist.m3u8
 
 #EXTINF:-1, tvg-name="Disney Jr" group-title="Infantil" ,Disney Jr
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="INFANTILES",Baby tv
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BABYTV)/index.m3u8
+#EXTINF:-1 group-title="INFANTILES",CHICOS IPE
+http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infantil", NatGeo Kids
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_KIDS_HD)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.turner.com/s3fs-public/location_brand_logo/TurnerLogos_LATAM_TOONCAST-01.png" group-title="Infantil", Tooncast
