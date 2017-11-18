@@ -489,8 +489,6 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklis
 
 
 ** CULTURA ***
-#EXTINF:-1 tvg-logo="https://ferminmusic.com/wp-content/uploads/2017/04/cultura-copia.jpg", =CULTURA=
-http://srregio.com/
 
 #EXTINF:-1 tvg-logo="" group-title="CULTURA", DISCOVERY CHANNEL
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(01)/index.m3u8
@@ -534,8 +532,6 @@ http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
 http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
 
 *** Noticias ***
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", =NOTICIAS=
-http://srregio.com/
 
 #EXTINF:-1 tvg-logo="https://k61.kn3.net/E/2/C/5/B/9/8BE.png" group-title="Noticias", Aire Santa Fe Argentina
 http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
@@ -547,8 +543,6 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
 
 *** Religion ***
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", =RELIGION=
-http://srregio.com/
 
 #EXTINF:-1 tvg-logo="http://televida.org.do/live/logo.png" group-title="Religion", Televida
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
@@ -556,8 +550,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
 http://uni5rtmp.tulix.tv/playout2multi9/playout2multi9.stream/chunklist_w2115659573.m3u8
 
 *** 24/7 ***
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", =24/7=
-http://srregio.com/
 
 #EXTINF:-1 tvg-logo="http://png-3.vector.me/files/images/7/6/764027/chavo_del_8_thumb.png" group-title="24/7", El Chavo Animado
 http://3.sendvid.com/y00xutjl.mp4/
@@ -576,8 +568,6 @@ http://stream.latino-webtv.com/series/simpsons.mp4
 
 
 *** España ***
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", =ESPAÑA=
-http://srregio.com/
 
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="España", Antena 3
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
@@ -612,8 +602,6 @@ http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_1500_av-b.m3u8?sd
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
 
 *** USA ***
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", =USA=
-http://srregio.com/
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-ZxSLgUvnfbA/UgmwyPWsM_I/AAAAAAAAAAc/7TyqbuEdPKg/s1600/animal+planet.jpg" group-title="USA", Animal Planet
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
@@ -633,8 +621,6 @@ http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8?
 http://cdn.liveonearth.com/cdnedge/smil:TWL.smil/playlist.m3u8?
 
 *** Asiaticos ***
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", =ASIATICOS=
-http://srregio.com/
 
 #EXTINF:-1 tvg-logo="" group-title="Asiaticos", Korea TV
 http://mobile.ccdntech.com/live/_definst_/vod62_Live/live1/chunklist_w706193787.m3u8
