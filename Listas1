@@ -334,7 +334,7 @@ http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
 #EXTINF:-1 tvg-name="SON POPULAR" group-title="MUSIC", SON POPULAR
 #EXTINF:1,SON POPULAR
 http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
-#EXTINF:-1 tvg-name="MUSIC CHOICE" group-title="MUSIC", MUSIC CHOICE
+#EXTINF:-1, MUSIC CHOICE
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:1 type="favorites" channelId="-1", MUSICTOP
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
