@@ -51,6 +51,28 @@ http://yosololoveoendragonsfeell.applive.online/live/vertelemundoesb4047ed6f94/i
 http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:1,CANAL 14
 http://181.143.238.252/live/livestream/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/tYcq3G4.png" group-title="Ecuador Latino",Univision
+http://tecnotv.xyz/tv3/univision
+#EXTINF:-1 tvg-logo="https://imgur.com/YJSAl39.png" group-title="Ecuador Latino",Unimas
+http://tecnotv.xyz/tv3/unimas
+#EXTINF:-1 tvg-logo="https://imgur.com/17wJ9dz.png" group-title="Ecuador Latino",Telemundo
+http://tecnotv.xyz/tv3/telemundo
+#EXTINF:-1 tvg-logo="https://imgur.com/YZlueRG.png" group-title="Ecuador Latino",FDF
+http://tecnotv.xyz/tv3/fdf
+#EXTINF:-1 tvg-logo="https://imgur.com/YxBQ5NP.png" group-title="Ecuador Latino",RCN Colombia
+http://tecnotv.xyz/tv3/rcn
+#EXTINF:-1 tvg-logo="https://imgur.com/v0lRY1N.png" group-title="Ecuador Latino",Caracol
+http://tecnotv.xyz/tv3/caracol
+#EXTINF:-1 tvg-logo="https://imgur.com/iY2rQkL.png" group-title="Ecuador Latino",Wapa
+http://tecnotv.xyz/tv3/wapa
+#EXTINF:-1 tvg-logo="https://imgur.com/WLXcsHT.png" group-title="Ecuador Latino",MiamiTv
+http://tecnotv.xyz/tv3/miamitv
+#EXTINF:-1 tvg-logo="https://imgur.com/76yoLR2.png?www.tecnotv.info" group-title="Ecuador Latino",Comedy Central
+http://tecnotv.xyz/singeo/comediacentral
+#EXTINF:-1 tvg-logo="https://imgur.com/8QjGHJe.png?www.tecnotv.info" group-title="Ecuador Latino",Canal 5
+http://tecnotv.xyz/singeo/canal5
+#EXTINF:-1 tvg-logo="https://imgur.com/gxnLMM7.png?www.tecnotv.info" group-title="Ecuador Latino",FUSION   
+http://tecnotv.xyz/singeo/fusion
 
 #EXTINF:-1, tvg-name="NEOX" group-title="CINE" ,NEOX
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
@@ -318,6 +340,8 @@ http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 http://ar.watcha.live/ch16/hi.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-iwUTtOMzaiE/U08TQLhmUEI/AAAAAAAAGno/uaCpUitGnG4/s1600/NatsuHen-Locomotion+logo.gif" group-title="Infantil", Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-iwUTtOMzaiE/U08TQLhmUEI/AAAAAAAAGno/uaCpUitGnG4/s1600/NatsuHen-Locomotion+logo.gif" group-title="Infantil", Locomotion 2
+http://tecnotv.xyz/tv3/locomotion
 #EXTINF:-1 tvg-logo="" group-title="Infantil",  Disney Jr.
 http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Infantil", Animax
