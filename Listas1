@@ -220,8 +220,10 @@ http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/-0vj3JwCG7gY/UY0f-xlZxeI/AAAAAAAACK4/2e7V7B3y_bU/s400/logo%2520de%2520vmastv.png" group-title="CentroAmerica", Vmas TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
 
-#EXTINF:1 tvg-logo="" group-title="Entretenimiento", A&E
+#EXTINF:1 tvg-logo="" group-title="Cine", A&E
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AE)/Stream(01)/index.m3u8
+#EXTINF:1 tvg-logo="" group-title="Cine", TruTV
+http://tecnotv.xyz/tvmex/trutv
 #EXTINF:-1 tvg-logo="" group-title="Cine", FOX LIFE
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cine", FOX SERIES
