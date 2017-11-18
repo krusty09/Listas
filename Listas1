@@ -116,7 +116,7 @@ http://189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/index.m3u8
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SONY_HD)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/20.png" group-title="CINE", Sony
 http://189.216.247.113/Content/HLS/Live/Channel(SONY)/index.m3u8
-#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/33.png" group-title="Cine", Space
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/33.png" group-title="Cine", Space 2
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/33.png" group-title="Cine", Space
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/Stream(01)/index.m3u8
