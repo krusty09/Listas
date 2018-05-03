@@ -17,3 +17,58 @@ http://101.mipsplayer.net:8088/adfree/cntsports/playlist.m3u8?id=267711&wowzases
 http://media.clearshottv.com/US_WWE/mpegts?token=XtnBc3HDE0
 #EXTINF:0,FOX SPORTS
 https://live14.userapi.com/637602/live/tjNyh-JFev4/playlist.m3u8
+#EXTM3U
+#EXTINF:-1,TELESUR
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/chunklist_b864000.m3u8
+#EXTINF:-1,VENESOLANA DE TV
+http://173.212.214.184:1935/vtvweb4/vtvweb4/chunklist_w507620369.m3u8
+#EXTINF:-1,FOX SPAÑOL
+http://178.162.199.131:8088/stream/foxddc/playlist.m3u8?id=2186&wowzasessionid=395269647&pk=b33b876bcc01e49df499a7864ed2629f2587b19eebd9256d7caba6e73f08af1f
+#EXTINF:-1,FOX OPCION 2
+http://ragnaroktv.com/hls_live/kr/FOX_HD/Mza0NDQ0sjQyMgQA/f0x.m3u8
+#EXTINF:-1,FOX CINEMA HD
+http://ragnaroktv.com/hls_live/kr/FOX_CINEMA_HD_SUB/Mza0NDQ0sjQyMgQA/f0x_cinema_sub.m3u8
+#EXTINF:-1,FOX ACTION HD
+http://ragnaroktv.com/hls_live/kr/FOX_ACTION_MEXICO_HD/Mza0NDQ0sjQyMgQA/fox_action_mx.m3u8
+#EXTINF:-1,FOX ACTION LATINO
+http://ragnaroktv.com/hls_live/kr/FOXACTION_HD/Mza0NDQ0sjQyMgQA/foxaction.m3u8
+#EXTINF:-1,FOX MOVIE HD
+http://ragnaroktv.com/hls_live/kr/FOXMOVIES_HD/Mza0NDQ0sjQyMgQA/f0x_movies.m3u8
+#EXTINF:-1,FOX CLASSIC HD
+http://ragnaroktv.com/hls_live/kr/FOX_CLASSICS_HD/Mza0NDQ0sjQyMgQA/f0x_classics.m3u8
+#EXTINF:-1,FOX COMEDY HD
+http://ragnaroktv.com/hls_live/kr/FOX_COMEDY_HD/Mza0NDQ0sjQyMgQA/f0x_comedy.m3u8
+#EXTINF:-1,FOX FAMILY HD
+http://ragnaroktv.com/hls_live/kr/FOXFAMILY_HD/Mza0NDQ0sjQyMgQA/f0x_family.m3u8
+#EXTINF:-1,CINEMAX
+http://ragnaroktv.com/hls_live/kr/CINEMAX/Mza0NDQ0sjQyMgQA/c1nemax.m3u8
+#EXTINF:-1,HBO LATINO
+http://ragnaroktv.com/hls_live/kr/HBO_HD_SUB/Mza0NDQ0sjQyMgQA/hbohd_sub.m3u8
+#EXTINF:-1,HBO 2
+http://ragnaroktv.com/hls_live/kr/HBO_2_HD/Mza0NDQ0sjQyMgQA/hb02.m3u8
+#EXTINF:-1,HBO FAMILY HD
+http://ragnaroktv.com/hls_live/kr/HBO_FAMILY_HD/Mza0NDQ0sjQyMgQA/hb0fam.m3u8
+#EXTINF:-1,HBO PLUS HD
+http://ragnaroktv.com/hls_live/kr/HBO_PLUS_HD/Mza0NDQ0sjQyMgQA/hboplus.m3u8
+#EXTINF:-1,CINECANAL
+http://2201.janjuaplayer.com:8088/live/spacechamo1/playlist.m3u8?id=79060&wowzasessionid=3607728676&pk=b33b876bcc01e49df499a7864ed2629f2587b19eebd9256d7caba6e73f08af1f
+#EXTINF:-1,CINECANAL 2
+http://ragnaroktv.com/hls_live/kr/CINECANAL_HD/Mza0NDQ0sjQyMgQA/cinecanal.m3u8 
+#EXTINF:-1,TELEMUNDO
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase;=on
+#EXTINF:-1,RCN COLOMBIA
+http://ragnaroktv.com/hls_live/kr/RCN_TELENOVELAS/Mza0NDQ0sjQyMgQA/rcn_tln.m3u8
+#EXTINF:-1,SPACE HD
+http://ragnaroktv.com/hls_live/kr/SPACE_HD/Mza0NDQ0sjQyMgQA/space.m3u8
+#EXTINF:-1,D PELICULA
+http://ragnaroktv.com/hls_live/kr/DEPELICULA/Mza0NDQ0sjQyMgQA/depelicula.m3u8
+#EXTINF:-1,WARNER HD
+http://ragnaroktv.com/hls_live/kr/WARNER_HD/Mza0NDQ0sjQyMgQA/warner.m3u8
+#EXTINF:-1,SONY HD
+http://ragnaroktv.com/hls_live/kr/SONY_HD/Mza0NDQ0sjQyMgQA/sony.m3u8
+#EXTINF:-1,UNIVERSAL CHANEL
+http://ragnaroktv.com/hls_live/kr/UNIVERSAL_CHANNEL/Mza0NDQ0sjQyMgQA/univers.m3u8
+#EXTINF:-1,FX HD
+http://ragnaroktv.com/hls_live/kr/FX_HD/Mza0NDQ0sjQyMgQA/fx.m3u8
+#EXTINF:-1,COMEDY CENTER HD
+http://ragnaroktv.com/hls_live/kr/COMEDY_CENTRAL_HD/Mza0NDQ0sjQyMgQA/cc.m3u8
