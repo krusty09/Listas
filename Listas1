@@ -17,7 +17,6 @@ http://101.mipsplayer.net:8088/adfree/cntsports/playlist.m3u8?id=267711&wowzases
 http://media.clearshottv.com/US_WWE/mpegts?token=XtnBc3HDE0
 #EXTINF:0,FOX SPORTS
 https://live14.userapi.com/637602/live/tjNyh-JFev4/playlist.m3u8
-#EXTM3U
 #EXTINF:-1,TELESUR
 http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/chunklist_b864000.m3u8
 #EXTINF:-1,VENESOLANA DE TV
