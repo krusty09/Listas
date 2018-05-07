@@ -1,0 +1,591 @@
+#EXTM3U
+
+#EXTINF:-1,FOX
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
+#EXTINF:0,Azteca 7
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
+
+#EXTINF:0,Azteca Uno
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTINF:0,Azteca Mas
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+
+#EXTINF:0,Azteca A+ | SD
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+
+#EXTINF:0,Azteca 13 | SD
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTINF:0,UNIVISION
+http://tecnotv.xyz/mediaplay/univision
+
+#EXTINF:0,Telemundo Opcion 1
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+
+#EXTINF:0,TELEMUNDO 51 Opcion 2
+http://bit.ly/2iIFCmC
+
+#EXTINF:0,TELEMUNDO 51  Opcion
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8
+
+#EXTINF:0,TV LA BANDA
+http://cast.streamingconnect.com:1935/cslabanda/cslabanda/chunklist.m3u8
+
+#EXTINF:0,TV Mas
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+
+#EXTINF:0,TV Mas OPCION 2 Canalonce
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8
+
+
+#EXTINF:0,CNN Chile | HD (Mirror USA)
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+
+#EXTINF:0,Todo Deportes TV
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+
+#EXTINF:0,CDO | SD
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:0,CD0  | 2
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
+
+#EXTINF:0,CD0  |FC
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
+
+
+
+#EXTINF:0,MSNBC | FHD
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+
+#EXTINF:0,America TV  | SD
+http://z3.reporteperuano.com:1935/liverp3/loi/master.m3u8
+
+#EXTINF:0,Real Madrid TV | SD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:0,Sevilla FC | SD
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+
+#EXTINF:0,TV3 | SD
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+
+#EXTINF:0,324 Cataluña | SD
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+
+#EXTINF:0,Canal CNC Medellin | SD
+http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
+
+
+
+#EXTINF:0,TC HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+
+#EXTINF:0,TC | SD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+
+#EXTINF:0,DeporTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+
+#EXTINF:0,TC (Alt) | HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+
+
+
+#EXTINF:0,Telemicro Canal 5 HD
+http://api.new.livestream.com/accounts/736348/events/5522678/live.m3u8
+
+#EXTINF:0,TELEMICRO CANAL 5 RD
+http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
+
+#EXTINF:0,Telemicro Canal 5 OPCION HD RD
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12
+
+#EXTINF:0,TELEMICRO CANAL 5 OPCION 2 RD
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESREPDOM.png
+
+
+
+#EXTINF:0,Color Vision Canal 9 RD
+http://ss6.domint.net:2102/cvh_str/colorvisionhd/playlist.m3u8
+
+
+
+#EXTINF:0,MicroVision Canal 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+
+#EXTINF:0,Telesistema Canal 11 RD
+http://69.64.69.92:1935/hits-tv-ch11app/studio/playlist.m3u8
+
+#EXTINF:0,Bonao TV Canal 12
+http://ss9.domint.net:1988/btv_str/bonao/chunklist_w176943289.m3u8
+
+#EXTINF:0,TELECENTRO 13 RD
+http://api.new.livestream.com/accounts/736348/events/5567040/live.m3u8
+
+#EXTINF:0,Digital 15 RD
+http://bit.ly/2CLgJ6u
+
+#EXTINF:0,Digital 15 RD Opcion 2
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12
+
+#EXTINF:0,RNN Canal 27
+http://ss6.domint.net:2042/rnn_str/canal27/chunklist_w1261449614.m3u8
+
+
+#EXTINF:0,ROCAVISION Pelis RD
+http://server3.prostudionetwork.com:2017/061417/24/chunklist_w1894687798.m3u8
+
+#EXTINF:0,8 TV
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
+
+#EXTINF:0,La Tele Tuya
+http://enc-fwt.lorini.net/telet/telet/index.m3u8
+
+#EXTINF:0,TLT Venezuela
+http://enc-fwt.lorini.net/telet/telet/index.m3u8
+
+
+#EXTINF:0,Xtremo Channel Zol | SD
+http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
+
+#EXTINF:0,RCN | SD
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+
+#EXTINF:0,CANAL Pelicula
+http://k3.usastreams.com:1935/tvsur1/tvsur1/chunklist_w1185370442.m3u8
+
+#EXTINF:0,CNC
+http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
+
+#EXTINF:0,Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+
+#EXTINF:0,Caracol TV | SD
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+
+#EXTINF:0,Canal CNC Medellin | SD
+http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
+
+#EXTINF:0,CableOnda Sports | HD
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/playlist.m3u8
+
+#EXTINF:0,CD0
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:0,CableOnda Sports 2
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8
+
+#EXTINF:0,CableOnda Sports FC | HD
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/playlist.m3u8
+
+#EXTINF:0,COS
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
+
+#EXTINF:0,NFL Now | HD
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_4500k.m3u8
+
+#EXTINF:0,Viasat Sport | SD
+http://persik.by/stream/2944/263250/10249.m3u8
+
+#EXTINF:0,MLB | HD
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:0,Mundo Auto Television | HD
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
+
+#EXTINF:0,[AXN]
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8
+
+#EXTINF:0,[AXN white]
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
+
+#EXTINF:0,FOX Life Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
+
+#EXTINF:0,FOX Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
+
+#EXTINF:0,[Movistar de cine]
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
+
+#EXTINF:0,M+ Accion HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
+
+#EXTINF:0,M+ DCine
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
+
+#EXTINF:0,M+ Series Xtra HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
+
+#EXTINF:0,COMEDY CENTRAL HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
+
+#EXTINF:0,Cosmo Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
+
+#EXTINF:0,Top Latino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+
+#EXTINF:0,MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:0,MLB TV 2
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
+
+#EXTINF:0,NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+
+#EXTINF:0,ESPN USA Channel
+http://stream.memesyndicate.com/live/thx/index.m3u8
+
+#EXTINF:0,Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+#EXTINF:0,Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+#EXTINF:0,Pac-12 Arizona | FHD
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+
+#EXTINF:0,Pac-12 Bay Area | FHD
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+
+#EXTINF:0,Pac-12 Los Angeles | FHD
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+
+#EXTINF:0,Pac-12 Mountain | FHD
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+
+#EXTINF:0,Pac-12 Oregon | FHD
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+
+#EXTINF:0,Pac-12 Washington | FHD
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+
+#EXTINF:0,RTE News Now
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+
+#EXTINF:0,RTE 1 [NoKodi]
+http://akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
+
+#EXTINF:0,RTE 2 [NoKodi]
+http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
+
+#EXTINF:0,RTE Jr. [NoKodi]
+https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
+
+#EXTINF:0,beIN LaLiga opción 2
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
+
+#EXTINF:0,beIN La Liga opción 2 HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
+
+#EXTINF:0,Movistar Futbol | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
+
+#EXTINF:0,Movistar Fútbol 2 Separa
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
+
+#EXTINF:0,LaLiga TV Bar HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+
+#EXTINF:0,Movistar Golf | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
+
+#EXTINF:0,M. Formula 1 HD Mejor opcion
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+
+#EXTINF:0,Movistar F1 opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+
+
+
+#EXTINF:0,Movistar F1 opción 3
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
+
+#EXTINF:0,Movistar MotoGP | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
+
+#EXTINF:0,Movistar MotoGP Opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
+
+
+
+#EXTINF:0,Movistar MotoGP Opción 3
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
+
+#EXTINF:0,Eurosport 1 | HD
+http://65.254.55.10:4000/live/197/197.m3u8
+
+
+
+#EXTINF:0,Deport Tv
+https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/chunklist_w579935025_b542000_slesp.m3u8
+
+#EXTINF:0,DeporTV OPCION 2
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+
+#EXTINF:0,DXTV DEPORTES
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:0,DXTV DEPORTES
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+
+#EXTINF:0,Sky Sports 1 DE
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/737/index.m3u8
+
+#EXTINF:0,Sky Sports 2 DE
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/733/index.m3u8
+
+#EXTINF:0,Arena Ruso
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/1/index.m3u8
+
+#EXTINF:0,Arena Ruso HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/289/index.m3u8
+
+#EXTINF:0,Claro Sport
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u
+
+#EXTINF:0,Futbol MAT RUSIA
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/5/index.m3u8
+
+#EXTINF:0,Futbol MAT RUSIA OPCION 2 HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/29/index.m3u8
+
+#EXTINF:0,Futbol MAT RUSIA 2
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/6/index.m3u8
+
+#EXTINF:0,Futbol MAT RUSIA 3
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/7/index.m3u8
+
+#EXTINF:0,Futbol MAT RUSIA 3 HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/24/index.m3u8
+
+#EXTINF:0,Hash Futbol RUSO
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/13/index.m3u8
+
+#EXTINF:0,Nash Futbol HD RUSO
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/25/index.m3u8
+
+#EXTINF:0,Football 1 HD USO
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/867/index.m3u8
+
+#EXTINF:0,Football 2 HD RUSO
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/868/index.m3u8
+
+#EXTINF:0,Rai Sport | SD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/528/index.m3u8
+
+#EXTINF:0,ARENA SPORT 1 ITALY
+http://66.70.129.43:8080/Arena1-SRB/index.m3u8
+
+#EXTINF:0,ARENA SPORT 2 ITALY
+http://66.70.129.43:8080/Arena2-SRB/index.m3u8
+
+#EXTINF:0,ARENA SPORT 3 ITALY
+http://66.70.129.43:8080/Arena3-SRB/index.m3u8
+
+#EXTINF:0,ARENA SPORT 4 ITALY
+http://66.70.129.43:8080/Arena4-SRB/index.m3u8
+
+#EXTINF:0,1 Abu Dhabi Sports HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:0,Abu Dhabi Sports | SD
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+
+#EXTINF:0,Abu Dhabi Sports OPCION 2
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+
+#EXTINF:0,Abu Dhabi Sports 2 HD opcion 1
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:0,Abu Dhabi Sports 2 HD opcion 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+
+#EXTINF:0,Abu Dhabi Sports 2 | SD
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+
+#EXTINF:0,Abu Dhabi Sports OPCION 2
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+
+#EXTINF:0,Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+
+#EXTINF:0,Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+
+#EXTINF:0,Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+
+#EXTINF:0,Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+
+#EXTINF:0,Sport Arab
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+
+#EXTINF:0,Heart
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:0,Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+#EXTINF:0,Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+
+#EXTINF:0,SPORT KLUB HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/902/index.m3u8
+
+#EXTINF:0,FIGHT BOX HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/900/index.m3u8
+
+
+
+#EXTINF:0,Todo Deportes
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+
+#EXTINF:0,Todo Deportes opcion 2
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0,Telemúsica Separa
+http://186.155.200.118:1935/live/telemusica/playlist.m3u8
+
+#EXTINF:0,Extrema TV POCKET
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:0,Garage TV Separa
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+
+#EXTINF:0,INVESTIGATION DISCOVERY
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_id/index.m3u8
+
+#EXTINF:0,DISCOVERY
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery/index.m3u8
+
+#EXTINF:0,DISCOVERY SCIENCE
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_science/index.m3u8
+
+#EXTINF:0,DISCOVERY TURBO
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_turbo/index.m3u8
+
+#EXTINF:0,DISCOVERY HOME & HEALTH
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_home/index.m3u8
+
+#EXTINF:0,A+
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+
+#EXTINF:0,El Chavo Animado
+http://3.sendvid.com/y00xutjl.mp4
+
+#EXTINF:0,Russia Today Español
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase;=on
+
+#EXTINF:0,Eurosport 2 Russia HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/77/index.m3u8
+
+#EXTINF:0,Viasat Sport East Ruso
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/45/index.m3u8
+
+#EXTINF:0,Boes Ruso
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/2/index.m3u8
+
+#EXTINF:0,Extreme Sports Channel
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/47/index.m3u8
+
+#EXTINF:0,Viasat Sport East HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/75/index.m3u8
+
+#EXTINF:0,Viasat Sport East HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/76/index.m3u8
+
+#EXTINF:0,Avto Plus Aleman
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/248/index.m3u8
+
+#EXTINF:0,Sport 1 HD Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/453/index.m3u8
+
+#EXTINF:0,Sky Sport News Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/460/index.m3u8
+
+#EXTINF:0,Sky Sport Austria HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/475/index.m3u8
+
+#EXTINF:0,Rai Sport
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/528/index.m3u8
+
+#EXTINF:0,TVP Mazatlan DEPORTE mx
+https://5a3911d64928b.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+
+#EXTINF:0,Hit Music Channel
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+
+#EXTINF:0,Hit TV (Opt-2)
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+
+#EXTINF:0,TOP LATINO TV  s. y L
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+
+#EXTINF:0,Canela TV LATINO
+http://servicioamerica.com:1935/8154/8154/playlist.m3u8
+
+#EXTINF:0,La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/chunklist_w1614152194.m3u8
+
+#EXTINF:0,TELERITMO
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:0,MTV LIVE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/26/index.m3u8
+
+#EXTINF:0,MTV HITS
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/229/index.m3u8
+
+#EXTINF:0,MTV DANCE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/228/index.m3u8
+
+#EXTINF:0,MTV ROCKS
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/230/index.m3u8
+
+#EXTINF:0,Tv Pop
+http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
+
+#EXTINF:0,MUSICA:PortalFoxMix Tv
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0,MUSICA:Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0,MUSICA:Music Top Argentina
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0,MUSICA:Telemusica HD
+http://186.155.200.118:1935/live/telemusica/chunklist_w1713664263.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0,MUSICA:Retro Tv
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0,MUSICA:Radio Italia Vision
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+
+#EXTINF:0,MUSICA:California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+
+#EXTINF:0,MUSICA:Virgin Radio
+http://fms.105.net:1935/live/virgin1/.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0,MUSICA:Dream Tv
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0,RADIO MONTECARLO
+http://wow01.105.net/live/rmc1/playlist.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:0,14 TV HD
+http://155.4.160.181:1935/fjwebb/liveWebb/playlist.m3u8
+
+#EXTINF:0,HEART TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:0,BABY TV ENGLISH
+http://wowza2.mysoltv.com:1992/UK_UK_Baby/tracks-v1a1/index.m3u8
