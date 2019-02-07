@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,M SERIES
+https://b39834-p2-h50-afvpzwog.2.cdn.telefonica.com/_39834/QualityLevels(96000)/Fragments(%5B%5D=1787260212906667)
 #EXTINF:-1,TC ECUADOR HD
 http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
 #EXTINF:0,Oromar TV
